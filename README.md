@@ -1,5 +1,10 @@
 # Vocaloid-style MV project
 
+## 成片下載
+
+《秋風恋歌》（DeZI：R）MV 成片：[akikaze_final.mp4](https://github.com/feroula09/akikaze-mv/releases/download/v1.0/akikaze_final.mp4)（1.66 GB），
+或到 [Release v1.0](https://github.com/feroula09/akikaze-mv/releases/tag/v1.0) 頁面下載。
+
 A Vocaloid-style 手書き (tegaki) lyric MV project made from the **vocaloid-style-mv-pipeline** template (author: **NikusonP**,
 MIT licence). Every frame is drawn by a deterministic front-end engine (Canvas2D scenes + a transparent lyric layer +
 a foreground layer + a WebGL2 post pass), rendered headless by Playwright and encoded by ffmpeg. The film is code:
