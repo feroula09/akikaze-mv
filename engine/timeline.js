@@ -74,11 +74,12 @@
       DENY.layout += ' shadowPlay glitchGrid tyBandHide tyRuby kanjiFocus contour circle tunnel curtain mirror type frameBox tyBaseline condensed gloss columnsBig tyLineFocus tyVRuler huge maskReveal tyErode tyCropGiant knQuarterTurn stack zoomRepeat tyCross vcols knFlowSnap justified rain sideways knTypeSlam';   // + HUD-like labels (prompt, LINE nn, timecodes)   // giant glyphs over faces, blobs, black bars
       DENY.decor += ' watermarkKanji constellation moonPhases rulerEdge waveform grid rings headingTape fireflies atomOrbit cropMarks romajiLine tyRunningHead guides halftonePatch counter glyphLock sonarArcs tyBigPunct registration indexNum concentricSquares';   // gimmicks / additive light
       DENY.bg += ' vhsBand filmStrip borderFrame bokehBg tornPaper';
+      DENY.hold = 'echoTrail';                                 // repeated ghost copies of the line
       const MOODS = ['emotional', 'calm', 'editorial'];       // a quiet ballad: no glitch / pop parts
       // allow-lists (checkpoint 4): every deny-list change re-rolls the whole film and kept surfacing new bad
       // layouts, so layouts are limited to ones seen working on this film, and the picture is always the background
       const ALLOW = {
-        layout: new Set('center edgeFrame circleWords lowerThird tyMargin quote dropCap tyJustify staircase knReflow corners credits halfVertical tyKeySplit tyScaleSteps'.split(' ')),
+        layout: new Set('center edgeFrame circleWords quote dropCap tyJustify staircase knReflow corners credits halfVertical tyKeySplit tyScaleSteps'.split(' ')),
         bg: new Set(['none']),
       };
       const enabled = {};
