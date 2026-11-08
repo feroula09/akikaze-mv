@@ -117,17 +117,6 @@
  ],
  "vocal_first_onset": 39.02,
  "vocal_last_offset": 245.84,
- "wordless_vocal_regions": [
-  {
-   "start": 17.9,
-   "end": 39.0,
-   "desc": "vocal stem active under the band intro but no words in the Whisper pass: humming or lead-instrument bleed (unconfirmed)"
-  },
-  {
-   "start": 252.0,
-   "end": 270.0,
-   "desc": "vocal stem ~-19 dB but no words in the Whisper pass: wordless vocal or lead-instrument bleed (unconfirmed)"
-  }
- ],
+ "wordless_vocal_regions": [],
  "instrumental_breaks": []
 }

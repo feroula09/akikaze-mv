@@ -30,7 +30,7 @@ Sections: **file: analysis/sections.json**.
 | 11 | 03:12.01 | 03:28.49 | 5760–6255 | **Bridge** (bridge) | bridge | 82–88 | 7 | 0.48 | 76% | 千鶴 speaks: 泣かないで、顔上げて / この空で、あなたを、見ているわ | largest energy jump of the song at bar 86 (201.4 s, +3 dB) |
 | 12 | 03:28.49 | 03:47.31 | 6255–6819 | **Last chorus** (last-chorus) | chorus | 89–96 | 8 | 0.74 | 96% | 染まり逝く木々, 楓ひとひら, 紅時雨: the loudest stretch | pickups into bars 89/91/93/95 |
 | 13 | 03:47.31 | 04:06.14 | 6819–7384 | **Coda (title lines)** (last-chorus) | coda | 97–104 | 8 | 0.76 | 97% | 風は歌う、秋風恋歌 / 時雨はいつしか、風花に / 恋しぐれ | last sung words end ~245.8 s (bar 104) |
-| 14 | 04:06.14 | 04:40.12 | 7384–8404 | **Outro** (outro) | outro | 105–118 | 14 | 0.49 | 44% | instrumental to the end; fades out | vocal stem has wordless content or lead bleed 252-270 s (unconfirmed); music ends 280.12 s |
+| 14 | 04:06.14 | 04:40.12 | 7384–8404 | **Outro** (outro) | outro | 105–118 | 14 | 0.49 | 44% | instrumental to the end; fades out | vocal stem activity 252-270 s is lead-instrument bleed (no voice); music ends 280.12 s |
 | 15 | 04:40.12 | 04:48.34 | 8404–8650 | **Tail** (tail) | tail | 119–119 | 0 | 0.00 | 0% | reverb tail after the hard cut (no new notes) | last usable frame for the afterglow / logo fade |
 
 - `energy` = mean of the 0..1 `rms` envelope over the section (song range: quietest 0.17, loudest 0.76). Masters are compressed, so contrast often comes from the arrangement - use `low` (20-150 Hz) to feel bass in/out and breakdowns.

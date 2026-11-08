@@ -13,5 +13,5 @@
   [82, 88, "bridge", "bridge", "Bridge", "千鶴 speaks: 泣かないで、顔上げて / この空で、あなたを、見ているわ", "largest energy jump of the song at bar 86 (201.4 s, +3 dB)"],
   [89, 96, "last-chorus", "chorus", "Last chorus", "染まり逝く木々, 楓ひとひら, 紅時雨: the loudest stretch", "pickups into bars 89/91/93/95"],
   [97, 104, "last-chorus", "coda", "Coda (title lines)", "風は歌う、秋風恋歌 / 時雨はいつしか、風花に / 恋しぐれ", "last sung words end ~245.8 s (bar 104)"],
-  [105, 118, "outro", "outro", "Outro", "instrumental to the end; fades out", "vocal stem has wordless content or lead bleed 252-270 s (unconfirmed); music ends 280.12 s"]
+  [105, 118, "outro", "outro", "Outro", "instrumental to the end; fades out", "vocal stem activity 252-270 s is lead-instrument bleed (no voice); music ends 280.12 s"]
 ]

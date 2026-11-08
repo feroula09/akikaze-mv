@@ -59,10 +59,7 @@ LINES = [
 SONG = dict(
     title="秋風恋歌",
     language="ja",
-    wordless_vocal_regions=[
-        dict(start=17.9, end=39.0, desc="vocal stem active under the band intro but no words in the Whisper pass: humming or lead-instrument bleed (unconfirmed)"),
-        dict(start=252.0, end=270.0, desc="vocal stem ~-19 dB but no words in the Whisper pass: wordless vocal or lead-instrument bleed (unconfirmed)"),
-    ],
+    wordless_vocal_regions=[],   # stem activity at 17.9-39.0 s and 252-270 s is lead-instrument bleed (user listened)
     instrumental_breaks=[],   # band drop-outs under a sung line: none found (interludes are in analysis/sections.json)
 )
 
