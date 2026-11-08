@@ -62,7 +62,7 @@
       JZ.setAudio({ duration: audio.duration, beats: audio.beats, energy: null, energyRate: 0 });
       const DENY = {
         layout: 'scatter ring wave labels pill knSeesaw knGearWords knTumble knPadGrid knPathRide zigzag arcTop gridCells bubble ticker searchBar chat notification ticket hanging wordCloud bounceLine elastic stickerBomb keycaps bubbles slotMachine flipBoard dotMatrix equalizer tape contents numbered poster ema ransom newspaper vinyl cassette bookSpine stampSheet calendar chochin routeMap stationSign noren tanzaku omikuji kakejiku shoji clapper warningLabel priceTag nameTag stickyNotes karuta cube flipCards accordion pile blocks balloons magnets tiles bulbs ledScroll billboard crowdBubbles crossword wordSearch puzzle dominoes burst fisheye origami zipper mosaicTiles stencil tyIndexTable tyStatCount typeSpecimen dictionary proofread magazine headlineDeck footnote ribbon flag pendulum knCollide knSlamStack halftoneBig tySquare tyRotBlock subtitleBar tile kaleido polaroid postcard letterPaper genkou panels splitScreen splitHalves wall cylinder cube',
-        fx: 'panelWipe irisTrans doors blindsTrans splitSlide gridRepeat whiteFrame blackFrame strobe colorBars mirrorFlash starGlint focusLines speedLines halftone duotone kaleido bulge squash snapshot loopScroll crtOff tvStatic zoomStutter negativeRing edgeDetect hueShift posterize ditherBit rotateSnap invert bandInvert flash bloomFlash filmBurn',
+        fx: 'panelWipe irisTrans doors blindsTrans splitSlide gridRepeat whiteFrame blackFrame strobe colorBars mirrorFlash starGlint focusLines speedLines halftone duotone kaleido bulge squash snapshot loopScroll crtOff tvStatic zoomStutter negativeRing edgeDetect hueShift posterize ditherBit rotateSnap invert bandInvert flash bloomFlash filmBurn filmAdvance',
         decor: 'dots arrows shapes qrBlock triangleSpin checkerStrip confetti petals heartsStars kamon seigaiha asanoha hanabi chochin shimenawa sensu momiji namiGashira memphis zigzagRibbon polkaPatch stripeCircle starburst cursorClick windowChrome progressBar toggleSwitch notifBell likeCounter mediaControls volumeBars musicNotes bubbles dandelion vines cloudPuffs tapePieces highlightMark staple paperClip indexTabs punchHoles swatches spinner tally qrBlock bracketsJP loopArrows halfCircles decoCorners tyColophon dateStamp tyTypeScale tyTextRule dataColumns timecodeBar rainStreaks glitchRects barcode reticle crosshair bars',
         cam: 'knCardFlip jelly bounce knJumpCut knTiltKick knReadPan knShearKick knRushIn shakeHard whipIn crashZoom beatPunch',
         treat: 'boxed marker knWordPlate circled sticker splitColor rainbow chrome extrude glow',
@@ -72,14 +72,14 @@
         trans: 'flashCross shatterTiles knCornerSwing knStripSlam checker cubeTurn spinOut doorsOpen pixelate knStutterCut uncover inkBlob',
       };
       DENY.layout += ' shadowPlay glitchGrid tyBandHide tyRuby kanjiFocus contour circle tunnel curtain mirror type frameBox tyBaseline condensed gloss columnsBig tyLineFocus tyVRuler huge maskReveal tyErode tyCropGiant knQuarterTurn stack zoomRepeat tyCross vcols knFlowSnap justified rain sideways knTypeSlam';   // + HUD-like labels (prompt, LINE nn, timecodes)   // giant glyphs over faces, blobs, black bars
-      DENY.decor += ' watermarkKanji constellation moonPhases rulerEdge waveform grid rings headingTape fireflies atomOrbit cropMarks romajiLine tyRunningHead guides halftonePatch counter glyphLock sonarArcs tyBigPunct registration indexNum concentricSquares';   // gimmicks / additive light
+      DENY.decor += ' watermarkKanji constellation moonPhases rulerEdge waveform grid rings headingTape fireflies atomOrbit cropMarks romajiLine tyRunningHead guides halftonePatch counter glyphLock sonarArcs tyBigPunct registration indexNum concentricSquares ruler dimension';   // gimmicks / additive light
       DENY.bg += ' vhsBand filmStrip borderFrame bokehBg tornPaper';
       DENY.hold = 'echoTrail';                                 // repeated ghost copies of the line
       const MOODS = ['emotional', 'calm', 'editorial'];       // a quiet ballad: no glitch / pop parts
       // allow-lists (checkpoint 4): every deny-list change re-rolls the whole film and kept surfacing new bad
       // layouts, so layouts are limited to ones seen working on this film, and the picture is always the background
       const ALLOW = {
-        layout: new Set('center edgeFrame circleWords quote dropCap tyJustify staircase knReflow corners credits halfVertical tyKeySplit tyScaleSteps'.split(' ')),
+        layout: new Set('center edgeFrame circleWords tyJustify staircase knReflow credits halfVertical tyKeySplit'.split(' ')),
         bg: new Set(['none']),
       };
       const enabled = {};
