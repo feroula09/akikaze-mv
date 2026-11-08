@@ -1,0 +1,149 @@
+{
+ "song": "秋風恋歌",
+ "duration": 295.459,
+ "language": "ja",
+ "sections": [
+  {
+   "name": "verse 1",
+   "start": 39.02,
+   "end": 57.58,
+   "lines": [
+    0,
+    1
+   ]
+  },
+  {
+   "name": "pre-chorus 1",
+   "start": 57.84,
+   "end": 75.83,
+   "lines": [
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "name": "chorus 1",
+   "start": 76.06,
+   "end": 97.92,
+   "lines": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "name": "verse 2",
+   "start": 114.34,
+   "end": 132.45,
+   "lines": [
+    10,
+    11
+   ]
+  },
+  {
+   "name": "pre-chorus 2",
+   "start": 133.22,
+   "end": 151.33,
+   "lines": [
+    12,
+    13,
+    14,
+    15
+   ]
+  },
+  {
+   "name": "chorus 2",
+   "start": 151.36,
+   "end": 170.74,
+   "lines": [
+    16,
+    17,
+    18,
+    19
+   ]
+  },
+  {
+   "name": "bridge (C-melo)",
+   "start": 191.92,
+   "end": 207.79,
+   "lines": [
+    20,
+    21
+   ]
+  },
+  {
+   "name": "final chorus",
+   "start": 207.82,
+   "end": 226.65,
+   "lines": [
+    22,
+    23,
+    24,
+    25
+   ]
+  },
+  {
+   "name": "outro",
+   "start": 226.68,
+   "end": 245.84,
+   "lines": [
+    26,
+    27
+   ]
+  }
+ ],
+ "instrumental_gaps": [
+  {
+   "after_line": 9,
+   "start": 97.92,
+   "end": 114.34,
+   "dur": 16.42
+  },
+  {
+   "after_line": 19,
+   "start": 170.74,
+   "end": 191.92,
+   "dur": 21.18
+  },
+  {
+   "after_line": 27,
+   "start": 245.84,
+   "end": 295.46,
+   "dur": 49.62
+  }
+ ],
+ "vocal_first_onset": 39.02,
+ "vocal_last_offset": 245.84,
+ "wordless_vocal_regions": [
+  {
+   "start": 252.0,
+   "end": 270.0,
+   "desc": "vocal stem ~-19 dB but no words in the Whisper pass: wordless vocal or lead-instrument bleed (unconfirmed)"
+  }
+ ],
+ "instrumental_breaks": [
+  {
+   "start": 0.0,
+   "end": 38.0,
+   "desc": "intro"
+  },
+  {
+   "start": 94.5,
+   "end": 114.0,
+   "desc": "interlude after chorus 1"
+  },
+  {
+   "start": 169.6,
+   "end": 192.5,
+   "desc": "interlude after chorus 2"
+  },
+  {
+   "start": 245.2,
+   "end": 280.12,
+   "desc": "outro to the end of the music"
+  }
+ ]
+}

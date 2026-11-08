@@ -1,0 +1,3308 @@
+[
+ {
+  "index": 0,
+  "start": 39.02,
+  "end": 48.19,
+  "text": "二人歩いた小径 ひとり 歩いています",
+  "words": [
+   {
+    "w": "二人",
+    "reading": "ふたり",
+    "start": 39.02,
+    "end": 41.14
+   },
+   {
+    "w": "歩い",
+    "reading": "あるい",
+    "start": 41.14,
+    "end": 41.8
+   },
+   {
+    "w": "た",
+    "reading": "た",
+    "start": 41.8,
+    "end": 41.97
+   },
+   {
+    "w": "小径",
+    "reading": "こみち",
+    "start": 41.97,
+    "end": 43.11
+   },
+   {
+    "w": "ひとり",
+    "reading": "ひとり",
+    "start": 43.11,
+    "end": 44.39
+   },
+   {
+    "w": "歩い",
+    "reading": "あるい",
+    "start": 44.39,
+    "end": 45.79
+   },
+   {
+    "w": "ています",
+    "reading": "ています",
+    "start": 45.79,
+    "end": 48.19
+   }
+  ],
+  "section_hint": "verse 1",
+  "repeat_of": null,
+  "confidence": 0.95,
+  "alternatives": [],
+  "reading": "ふたりあるいたこみち ひとり あるいています",
+  "romaji": "futari aruita komichi hitori arui teimasu",
+  "last_mora_start": 47.23,
+  "chars": [
+   {
+    "c": "二",
+    "start": 39.02,
+    "end": 39.89
+   },
+   {
+    "c": "人",
+    "start": 39.89,
+    "end": 41.14
+   },
+   {
+    "c": "歩",
+    "start": 41.14,
+    "end": 41.69
+   },
+   {
+    "c": "い",
+    "start": 41.69,
+    "end": 41.8
+   },
+   {
+    "c": "た",
+    "start": 41.8,
+    "end": 41.97
+   },
+   {
+    "c": "小",
+    "start": 41.97,
+    "end": 42.38
+   },
+   {
+    "c": "径",
+    "start": 42.38,
+    "end": 43.11
+   },
+   {
+    "c": "ひ",
+    "start": 43.11,
+    "end": 43.43
+   },
+   {
+    "c": "と",
+    "start": 43.43,
+    "end": 43.73
+   },
+   {
+    "c": "り",
+    "start": 43.73,
+    "end": 44.39
+   },
+   {
+    "c": "歩",
+    "start": 44.39,
+    "end": 45.61
+   },
+   {
+    "c": "い",
+    "start": 45.61,
+    "end": 45.79
+   },
+   {
+    "c": "て",
+    "start": 45.79,
+    "end": 46.19
+   },
+   {
+    "c": "い",
+    "start": 46.19,
+    "end": 46.65
+   },
+   {
+    "c": "ま",
+    "start": 46.65,
+    "end": 47.23
+   },
+   {
+    "c": "す",
+    "start": 47.23,
+    "end": 48.19
+   }
+  ],
+  "timing_source": "mms",
+  "note": null,
+  "start_16th": 38.925
+ },
+ {
+  "index": 1,
+  "start": 48.43,
+  "end": 57.58,
+  "text": "風に揺れる葉の音 ひとり 歌を 口ずさみます",
+  "words": [
+   {
+    "w": "風",
+    "reading": "かぜ",
+    "start": 48.43,
+    "end": 49.61
+   },
+   {
+    "w": "に",
+    "reading": "に",
+    "start": 49.61,
+    "end": 50.49
+   },
+   {
+    "w": "揺れ",
+    "reading": "ゆれ",
+    "start": 50.49,
+    "end": 51.07
+   },
+   {
+    "w": "る",
+    "reading": "る",
+    "start": 51.07,
+    "end": 51.25
+   },
+   {
+    "w": "葉",
+    "reading": "は",
+    "start": 51.25,
+    "end": 51.39
+   },
+   {
+    "w": "の",
+    "reading": "の",
+    "start": 51.39,
+    "end": 51.67
+   },
+   {
+    "w": "音",
+    "reading": "おと",
+    "start": 51.67,
+    "end": 52.53
+   },
+   {
+    "w": "ひとり",
+    "reading": "ひとり",
+    "start": 52.53,
+    "end": 53.8
+   },
+   {
+    "w": "歌を",
+    "reading": "うたを",
+    "start": 53.8,
+    "end": 54.9
+   },
+   {
+    "w": "口",
+    "reading": "くち",
+    "start": 54.9,
+    "end": 55.48
+   },
+   {
+    "w": "ずさみます",
+    "reading": "ずさみます",
+    "start": 55.48,
+    "end": 57.58
+   }
+  ],
+  "section_hint": "verse 1",
+  "repeat_of": null,
+  "confidence": 0.9,
+  "alternatives": [],
+  "reading": "かぜにゆれるはのおと ひとり うたを くちずさみます",
+  "romaji": "kaze ni yure ru ha no oto hitori utao kuchi zusamimasu",
+  "last_mora_start": 56.7,
+  "chars": [
+   {
+    "c": "風",
+    "start": 48.43,
+    "end": 49.61
+   },
+   {
+    "c": "に",
+    "start": 49.61,
+    "end": 50.49
+   },
+   {
+    "c": "揺",
+    "start": 50.49,
+    "end": 50.77
+   },
+   {
+    "c": "れ",
+    "start": 50.77,
+    "end": 51.07
+   },
+   {
+    "c": "る",
+    "start": 51.07,
+    "end": 51.25
+   },
+   {
+    "c": "葉",
+    "start": 51.25,
+    "end": 51.39
+   },
+   {
+    "c": "の",
+    "start": 51.39,
+    "end": 51.67
+   },
+   {
+    "c": "音",
+    "start": 51.67,
+    "end": 52.53
+   },
+   {
+    "c": "ひ",
+    "start": 52.53,
+    "end": 52.84
+   },
+   {
+    "c": "と",
+    "start": 52.84,
+    "end": 53.14
+   },
+   {
+    "c": "り",
+    "start": 53.14,
+    "end": 53.8
+   },
+   {
+    "c": "歌",
+    "start": 53.8,
+    "end": 54.38
+   },
+   {
+    "c": "を",
+    "start": 54.38,
+    "end": 54.9
+   },
+   {
+    "c": "口",
+    "start": 54.9,
+    "end": 55.48
+   },
+   {
+    "c": "ず",
+    "start": 55.48,
+    "end": 55.76
+   },
+   {
+    "c": "さ",
+    "start": 55.76,
+    "end": 56.08
+   },
+   {
+    "c": "み",
+    "start": 56.08,
+    "end": 56.38
+   },
+   {
+    "c": "ま",
+    "start": 56.38,
+    "end": 56.7
+   },
+   {
+    "c": "す",
+    "start": 56.7,
+    "end": 57.58
+   }
+  ],
+  "timing_source": "mms",
+  "note": "Whisper heard 波紋と / 人に. Text here is for alignment: official punctuation and spelling (やう) live in analysis/lyrics_official.txt",
+  "start_16th": 48.343
+ },
+ {
+  "index": 2,
+  "start": 57.84,
+  "end": 62.52,
+  "text": "手鞠花 色あせるように",
+  "words": [
+   {
+    "w": "手鞠",
+    "reading": "てまり",
+    "start": 57.84,
+    "end": 58.72
+   },
+   {
+    "w": "花",
+    "reading": "ばないろ",
+    "start": 58.72,
+    "end": 60.24
+   },
+   {
+    "w": "色",
+    "reading": "あせ",
+    "start": 60.24,
+    "end": 60.8
+   },
+   {
+    "w": "あせるように",
+    "reading": "るように",
+    "start": 60.8,
+    "end": 62.52
+   }
+  ],
+  "section_hint": "pre-chorus 1",
+  "repeat_of": null,
+  "confidence": 0.85,
+  "alternatives": [
+   "色褪せぬように"
+  ],
+  "reading": "てまりばな いろあせるように",
+  "romaji": "temari banairo ase ruyouni",
+  "last_mora_start": 61.37,
+  "chars": [
+   {
+    "c": "手",
+    "start": 57.84,
+    "end": 58.28
+   },
+   {
+    "c": "鞠",
+    "start": 58.28,
+    "end": 58.72
+   },
+   {
+    "c": "花",
+    "start": 58.72,
+    "end": 60.24
+   },
+   {
+    "c": "色",
+    "start": 60.24,
+    "end": 60.8
+   },
+   {
+    "c": "あ",
+    "start": 60.8,
+    "end": 61.06
+   },
+   {
+    "c": "せ",
+    "start": 61.06,
+    "end": 61.27
+   },
+   {
+    "c": "る",
+    "start": 61.27,
+    "end": 61.37
+   },
+   {
+    "c": "よ",
+    "start": 61.37,
+    "end": 62.52
+   },
+   {
+    "c": "う",
+    "start": 61.37,
+    "end": 62.52
+   },
+   {
+    "c": "に",
+    "start": 61.37,
+    "end": 62.52
+   }
+  ],
+  "timing_source": "mms",
+  "note": "やう = historical spelling, sung よう; forced scoring split: ばな wins on the stem, はな on centre (both within noise)",
+  "start_16th": 57.752
+ },
+ {
+  "index": 3,
+  "start": 62.55,
+  "end": 67.23,
+  "text": "この想い 消え逝く前に",
+  "words": [
+   {
+    "w": "この",
+    "reading": "この",
+    "start": 62.55,
+    "end": 63.21
+   },
+   {
+    "w": "想い",
+    "reading": "おもい",
+    "start": 63.21,
+    "end": 64.31
+   },
+   {
+    "w": "消え",
+    "reading": "きえ",
+    "start": 64.31,
+    "end": 64.89
+   },
+   {
+    "w": "逝く",
+    "reading": "ゆくまえ",
+    "start": 64.89,
+    "end": 65.93
+   },
+   {
+    "w": "前",
+    "reading": "に",
+    "start": 65.93,
+    "end": 67.23
+   }
+  ],
+  "section_hint": "pre-chorus 1",
+  "repeat_of": null,
+  "confidence": 0.95,
+  "alternatives": [],
+  "reading": "このおもい きえゆくまえに",
+  "romaji": "kono omoikie yukumae ni ",
+  "last_mora_start": 65.93,
+  "chars": [
+   {
+    "c": "こ",
+    "start": 62.55,
+    "end": 62.85
+   },
+   {
+    "c": "の",
+    "start": 62.85,
+    "end": 63.21
+   },
+   {
+    "c": "想",
+    "start": 63.21,
+    "end": 63.73
+   },
+   {
+    "c": "い",
+    "start": 63.73,
+    "end": 64.31
+   },
+   {
+    "c": "消",
+    "start": 64.31,
+    "end": 64.69
+   },
+   {
+    "c": "え",
+    "start": 64.69,
+    "end": 64.89
+   },
+   {
+    "c": "逝",
+    "start": 64.89,
+    "end": 65.81
+   },
+   {
+    "c": "く",
+    "start": 65.81,
+    "end": 65.93
+   },
+   {
+    "c": "前",
+    "start": 65.93,
+    "end": 67.23
+   }
+  ],
+  "timing_source": "mms",
+  "note": null,
+  "start_16th": 62.453
+ },
+ {
+  "index": 4,
+  "start": 67.27,
+  "end": 71.4,
+  "text": "手毬歌 歌う貴女の",
+  "words": [
+   {
+    "w": "手毬",
+    "reading": "てまり",
+    "start": 67.27,
+    "end": 68.15
+   },
+   {
+    "w": "歌",
+    "reading": "うた",
+    "start": 68.15,
+    "end": 69.11
+   },
+   {
+    "w": "歌う",
+    "reading": "うたう",
+    "start": 69.11,
+    "end": 69.97
+   },
+   {
+    "w": "貴女",
+    "reading": "あなた",
+    "start": 69.97,
+    "end": 70.8
+   },
+   {
+    "w": "の",
+    "reading": "の",
+    "start": 70.8,
+    "end": 71.4
+   }
+  ],
+  "section_hint": "pre-chorus 1",
+  "repeat_of": null,
+  "confidence": 0.95,
+  "alternatives": [],
+  "reading": "てまりうた うたうあなたの",
+  "romaji": "temari uta utau anata no",
+  "last_mora_start": 70.8,
+  "chars": [
+   {
+    "c": "手",
+    "start": 67.27,
+    "end": 67.71
+   },
+   {
+    "c": "毬",
+    "start": 67.71,
+    "end": 68.15
+   },
+   {
+    "c": "歌",
+    "start": 68.15,
+    "end": 69.11
+   },
+   {
+    "c": "歌",
+    "start": 69.11,
+    "end": 69.73
+   },
+   {
+    "c": "う",
+    "start": 69.73,
+    "end": 69.97
+   },
+   {
+    "c": "貴",
+    "start": 69.97,
+    "end": 70.36
+   },
+   {
+    "c": "女",
+    "start": 70.36,
+    "end": 70.8
+   },
+   {
+    "c": "の",
+    "start": 70.8,
+    "end": 71.4
+   }
+  ],
+  "timing_source": "mms",
+  "note": null,
+  "start_16th": 67.16
+ },
+ {
+  "index": 5,
+  "start": 71.98,
+  "end": 75.83,
+  "text": "声をこの胸に 響かせて",
+  "words": [
+   {
+    "w": "声",
+    "reading": "こえ",
+    "start": 71.98,
+    "end": 72.62
+   },
+   {
+    "w": "をこの",
+    "reading": "をこの",
+    "start": 72.62,
+    "end": 73.4
+   },
+   {
+    "w": "胸",
+    "reading": "むね",
+    "start": 73.4,
+    "end": 74.02
+   },
+   {
+    "w": "に",
+    "reading": "に",
+    "start": 74.02,
+    "end": 74.32
+   },
+   {
+    "w": "響か",
+    "reading": "ひびか",
+    "start": 74.32,
+    "end": 75.18
+   },
+   {
+    "w": "せて",
+    "reading": "せて",
+    "start": 75.18,
+    "end": 75.83
+   }
+  ],
+  "section_hint": "pre-chorus 1",
+  "repeat_of": null,
+  "confidence": 0.97,
+  "alternatives": [],
+  "reading": "こえをこのむねに ひびかせて",
+  "romaji": "koe okono mune ni hibika sete",
+  "last_mora_start": 75.36,
+  "chars": [
+   {
+    "c": "声",
+    "start": 71.98,
+    "end": 72.62
+   },
+   {
+    "c": "を",
+    "start": 72.62,
+    "end": 72.84
+   },
+   {
+    "c": "こ",
+    "start": 72.84,
+    "end": 73.02
+   },
+   {
+    "c": "の",
+    "start": 73.02,
+    "end": 73.4
+   },
+   {
+    "c": "胸",
+    "start": 73.4,
+    "end": 74.02
+   },
+   {
+    "c": "に",
+    "start": 74.02,
+    "end": 74.32
+   },
+   {
+    "c": "響",
+    "start": 74.32,
+    "end": 74.92
+   },
+   {
+    "c": "か",
+    "start": 74.92,
+    "end": 75.18
+   },
+   {
+    "c": "せ",
+    "start": 75.18,
+    "end": 75.36
+   },
+   {
+    "c": "て",
+    "start": 75.36,
+    "end": 75.83
+   }
+  ],
+  "timing_source": "mms",
+  "note": null,
+  "start_16th": 71.87
+ },
+ {
+  "index": 6,
+  "start": 76.06,
+  "end": 80.52,
+  "text": "舞い散る落ち葉は ひらひらと",
+  "words": [
+   {
+    "w": "舞い",
+    "reading": "まい",
+    "start": 76.06,
+    "end": 76.64
+   },
+   {
+    "w": "散る",
+    "reading": "ちる",
+    "start": 76.64,
+    "end": 77.86
+   },
+   {
+    "w": "落ち葉",
+    "reading": "おちば",
+    "start": 77.86,
+    "end": 78.72
+   },
+   {
+    "w": "は",
+    "reading": "は",
+    "start": 78.72,
+    "end": 79.0
+   },
+   {
+    "w": "ひらひらと",
+    "reading": "ひらひらと",
+    "start": 79.0,
+    "end": 80.52
+   }
+  ],
+  "section_hint": "chorus 1",
+  "repeat_of": null,
+  "confidence": 0.97,
+  "alternatives": [],
+  "reading": "まいちるおちばは ひらひらと",
+  "romaji": "maichiru ochiba wa hirahirato",
+  "last_mora_start": 80.22,
+  "chars": [
+   {
+    "c": "舞",
+    "start": 76.06,
+    "end": 76.52
+   },
+   {
+    "c": "い",
+    "start": 76.52,
+    "end": 76.64
+   },
+   {
+    "c": "散",
+    "start": 76.64,
+    "end": 77.24
+   },
+   {
+    "c": "る",
+    "start": 77.24,
+    "end": 77.86
+   },
+   {
+    "c": "落",
+    "start": 77.86,
+    "end": 78.1
+   },
+   {
+    "c": "ち",
+    "start": 78.1,
+    "end": 78.42
+   },
+   {
+    "c": "葉",
+    "start": 78.42,
+    "end": 78.72
+   },
+   {
+    "c": "は",
+    "start": 78.72,
+    "end": 79.0
+   },
+   {
+    "c": "ひ",
+    "start": 79.0,
+    "end": 79.3
+   },
+   {
+    "c": "ら",
+    "start": 79.3,
+    "end": 79.62
+   },
+   {
+    "c": "ひ",
+    "start": 79.62,
+    "end": 79.9
+   },
+   {
+    "c": "ら",
+    "start": 79.9,
+    "end": 80.22
+   },
+   {
+    "c": "と",
+    "start": 80.22,
+    "end": 80.52
+   }
+  ],
+  "timing_source": "mms",
+  "note": null,
+  "start_16th": 75.983
+ },
+ {
+  "index": 7,
+  "start": 80.78,
+  "end": 85.28,
+  "text": "緑と紅 つがいの楓",
+  "words": [
+   {
+    "w": "緑",
+    "reading": "みどり",
+    "start": 80.78,
+    "end": 81.36
+   },
+   {
+    "w": "と",
+    "reading": "と",
+    "start": 81.36,
+    "end": 81.92
+   },
+   {
+    "w": "紅",
+    "reading": "くれない",
+    "start": 81.92,
+    "end": 83.12
+   },
+   {
+    "w": "つがいの",
+    "reading": "つがいの",
+    "start": 83.12,
+    "end": 84.33
+   },
+   {
+    "w": "楓",
+    "reading": "かえで",
+    "start": 84.33,
+    "end": 85.28
+   }
+  ],
+  "section_hint": "chorus 1",
+  "repeat_of": null,
+  "confidence": 0.8,
+  "alternatives": [
+   "緑とべに"
+  ],
+  "reading": "みどりとくれない つがいのかえで",
+  "romaji": "midori to kurenai tsugaino kaede",
+  "last_mora_start": 84.89,
+  "chars": [
+   {
+    "c": "緑",
+    "start": 80.78,
+    "end": 81.36
+   },
+   {
+    "c": "と",
+    "start": 81.36,
+    "end": 81.92
+   },
+   {
+    "c": "紅",
+    "start": 81.92,
+    "end": 83.12
+   },
+   {
+    "c": "つ",
+    "start": 83.12,
+    "end": 83.42
+   },
+   {
+    "c": "が",
+    "start": 83.42,
+    "end": 83.78
+   },
+   {
+    "c": "い",
+    "start": 83.78,
+    "end": 84.0
+   },
+   {
+    "c": "の",
+    "start": 84.0,
+    "end": 84.33
+   },
+   {
+    "c": "楓",
+    "start": 84.33,
+    "end": 85.28
+   }
+  ],
+  "timing_source": "manual(energy+probe)",
+  "note": "forced scoring: くれない -41.2 vs べに -52.3 (vocal stem), same order on centre",
+  "start_16th": 80.685
+ },
+ {
+  "index": 8,
+  "start": 85.49,
+  "end": 90.14,
+  "text": "木枯らしが 連れ去るひとひら",
+  "words": [
+   {
+    "w": "木枯",
+    "reading": "こがらし",
+    "start": 85.49,
+    "end": 87.27
+   },
+   {
+    "w": "らしが",
+    "reading": "がつれさる",
+    "start": 87.27,
+    "end": 88.87
+   },
+   {
+    "w": "連れ",
+    "reading": "ひと",
+    "start": 88.87,
+    "end": 89.33
+   },
+   {
+    "w": "去る",
+    "reading": "ひら",
+    "start": 89.33,
+    "end": 90.14
+   }
+  ],
+  "section_hint": "chorus 1",
+  "repeat_of": null,
+  "confidence": 0.93,
+  "alternatives": [],
+  "reading": "こがらしが つれさるひとひら",
+  "romaji": "kogarashi gatsuresaru hito hira ",
+  "last_mora_start": 89.63,
+  "chars": [
+   {
+    "c": "木",
+    "start": 85.49,
+    "end": 86.07
+   },
+   {
+    "c": "枯",
+    "start": 86.07,
+    "end": 87.27
+   },
+   {
+    "c": "ら",
+    "start": 87.27,
+    "end": 87.81
+   },
+   {
+    "c": "し",
+    "start": 87.81,
+    "end": 88.13
+   },
+   {
+    "c": "が",
+    "start": 88.13,
+    "end": 88.41
+   },
+   {
+    "c": "連",
+    "start": 88.87,
+    "end": 89.03
+   },
+   {
+    "c": "れ",
+    "start": 89.03,
+    "end": 89.33
+   },
+   {
+    "c": "去",
+    "start": 89.33,
+    "end": 89.63
+   },
+   {
+    "c": "る",
+    "start": 89.63,
+    "end": 90.14
+   }
+  ],
+  "timing_source": "mms",
+  "note": null,
+  "start_16th": 85.395
+ },
+ {
+  "index": 9,
+  "start": 90.17,
+  "end": 97.92,
+  "text": "見上げた空には 片時雨",
+  "words": [
+   {
+    "w": "見上げ",
+    "reading": "みあげ",
+    "start": 90.17,
+    "end": 91.37
+   },
+   {
+    "w": "た",
+    "reading": "た",
+    "start": 91.37,
+    "end": 91.65
+   },
+   {
+    "w": "空",
+    "reading": "そら",
+    "start": 91.65,
+    "end": 92.55
+   },
+   {
+    "w": "には",
+    "reading": "には",
+    "start": 92.55,
+    "end": 93.13
+   },
+   {
+    "w": "片時",
+    "reading": "かたしぐ",
+    "start": 93.13,
+    "end": 94.31
+   },
+   {
+    "w": "雨",
+    "reading": "れ",
+    "start": 94.31,
+    "end": 97.92
+   }
+  ],
+  "section_hint": "chorus 1",
+  "repeat_of": null,
+  "confidence": 0.9,
+  "alternatives": [],
+  "reading": "みあげたそらには かたしぐれ",
+  "romaji": "miageta sora niha katashigu re",
+  "last_mora_start": 94.31,
+  "chars": [
+   {
+    "c": "見",
+    "start": 90.17,
+    "end": 90.57
+   },
+   {
+    "c": "上",
+    "start": 90.57,
+    "end": 90.79
+   },
+   {
+    "c": "げ",
+    "start": 90.79,
+    "end": 91.37
+   },
+   {
+    "c": "た",
+    "start": 91.37,
+    "end": 91.65
+   },
+   {
+    "c": "空",
+    "start": 91.65,
+    "end": 92.55
+   },
+   {
+    "c": "に",
+    "start": 92.55,
+    "end": 92.85
+   },
+   {
+    "c": "は",
+    "start": 92.85,
+    "end": 93.13
+   },
+   {
+    "c": "片",
+    "start": 93.13,
+    "end": 93.71
+   },
+   {
+    "c": "時",
+    "start": 93.71,
+    "end": 94.31
+   },
+   {
+    "c": "雨",
+    "start": 94.31,
+    "end": 97.92
+   }
+  ],
+  "timing_source": "mms",
+  "note": null,
+  "start_16th": 90.097
+ },
+ {
+  "index": 10,
+  "start": 114.34,
+  "end": 123.47,
+  "text": "風が木々を揺らして 交わりを歌えば",
+  "words": [
+   {
+    "w": "風",
+    "reading": "かぜ",
+    "start": 114.34,
+    "end": 115.5
+   },
+   {
+    "w": "が",
+    "reading": "が",
+    "start": 115.5,
+    "end": 116.34
+   },
+   {
+    "w": "木々",
+    "reading": "きぎ",
+    "start": 116.34,
+    "end": 117.0
+   },
+   {
+    "w": "を",
+    "reading": "を",
+    "start": 117.0,
+    "end": 117.12
+   },
+   {
+    "w": "揺ら",
+    "reading": "ゆら",
+    "start": 117.12,
+    "end": 117.5
+   },
+   {
+    "w": "して",
+    "reading": "して",
+    "start": 117.5,
+    "end": 118.43
+   },
+   {
+    "w": "交わり",
+    "reading": "まじわり",
+    "start": 118.43,
+    "end": 120.27
+   },
+   {
+    "w": "を",
+    "reading": "を",
+    "start": 120.27,
+    "end": 120.91
+   },
+   {
+    "w": "歌え",
+    "reading": "うたえ",
+    "start": 120.91,
+    "end": 122.55
+   },
+   {
+    "w": "ば",
+    "reading": "ば",
+    "start": 122.55,
+    "end": 123.47
+   }
+  ],
+  "section_hint": "verse 2",
+  "repeat_of": null,
+  "confidence": 0.9,
+  "alternatives": [],
+  "reading": "かぜがきぎをゆらして まじわりをうたえば",
+  "romaji": "kaze ga kigi o yura shite majiwari o utaeba",
+  "last_mora_start": 122.55,
+  "chars": [
+   {
+    "c": "風",
+    "start": 114.34,
+    "end": 115.5
+   },
+   {
+    "c": "が",
+    "start": 115.5,
+    "end": 116.34
+   },
+   {
+    "c": "木",
+    "start": 116.34,
+    "end": 116.64
+   },
+   {
+    "c": "々",
+    "start": 116.64,
+    "end": 117.0
+   },
+   {
+    "c": "を",
+    "start": 117.0,
+    "end": 117.12
+   },
+   {
+    "c": "揺",
+    "start": 117.12,
+    "end": 117.25
+   },
+   {
+    "c": "ら",
+    "start": 117.25,
+    "end": 117.5
+   },
+   {
+    "c": "し",
+    "start": 117.5,
+    "end": 117.84
+   },
+   {
+    "c": "て",
+    "start": 117.84,
+    "end": 118.43
+   },
+   {
+    "c": "交",
+    "start": 118.43,
+    "end": 119.03
+   },
+   {
+    "c": "わ",
+    "start": 119.03,
+    "end": 119.61
+   },
+   {
+    "c": "り",
+    "start": 119.61,
+    "end": 120.27
+   },
+   {
+    "c": "を",
+    "start": 120.27,
+    "end": 120.91
+   },
+   {
+    "c": "歌",
+    "start": 120.91,
+    "end": 122.05
+   },
+   {
+    "c": "え",
+    "start": 122.05,
+    "end": 122.55
+   },
+   {
+    "c": "ば",
+    "start": 122.55,
+    "end": 123.47
+   }
+  ],
+  "timing_source": "mms",
+  "note": null,
+  "start_16th": 114.222
+ },
+ {
+  "index": 11,
+  "start": 123.81,
+  "end": 132.45,
+  "text": "貴女の歌声が 胸の奥に響いてきます",
+  "words": [
+   {
+    "w": "貴女",
+    "reading": "あなた",
+    "start": 123.81,
+    "end": 125.79
+   },
+   {
+    "w": "の",
+    "reading": "の",
+    "start": 125.79,
+    "end": 126.07
+   },
+   {
+    "w": "歌声",
+    "reading": "うたごえ",
+    "start": 126.07,
+    "end": 127.27
+   },
+   {
+    "w": "が",
+    "reading": "が",
+    "start": 127.27,
+    "end": 127.78
+   },
+   {
+    "w": "胸",
+    "reading": "むね",
+    "start": 127.78,
+    "end": 128.44
+   },
+   {
+    "w": "の",
+    "reading": "の",
+    "start": 128.44,
+    "end": 129.1
+   },
+   {
+    "w": "奥",
+    "reading": "おく",
+    "start": 129.1,
+    "end": 129.6
+   },
+   {
+    "w": "に",
+    "reading": "に",
+    "start": 129.6,
+    "end": 130.18
+   },
+   {
+    "w": "響い",
+    "reading": "ひびい",
+    "start": 130.18,
+    "end": 131.08
+   },
+   {
+    "w": "てきます",
+    "reading": "てきます",
+    "start": 131.08,
+    "end": 132.45
+   }
+  ],
+  "section_hint": "verse 2",
+  "repeat_of": null,
+  "confidence": 0.97,
+  "alternatives": [],
+  "reading": "あなたのうたごえが むねのおくにひびいてきます",
+  "romaji": "anata no utagoe ga mune no oku ni hibii tekimasu",
+  "last_mora_start": 131.96,
+  "chars": [
+   {
+    "c": "貴",
+    "start": 123.81,
+    "end": 124.61
+   },
+   {
+    "c": "女",
+    "start": 124.61,
+    "end": 125.79
+   },
+   {
+    "c": "の",
+    "start": 125.79,
+    "end": 126.07
+   },
+   {
+    "c": "歌",
+    "start": 126.07,
+    "end": 126.67
+   },
+   {
+    "c": "声",
+    "start": 126.67,
+    "end": 127.27
+   },
+   {
+    "c": "が",
+    "start": 127.27,
+    "end": 127.78
+   },
+   {
+    "c": "胸",
+    "start": 127.78,
+    "end": 128.44
+   },
+   {
+    "c": "の",
+    "start": 128.44,
+    "end": 129.1
+   },
+   {
+    "c": "奥",
+    "start": 129.1,
+    "end": 129.6
+   },
+   {
+    "c": "に",
+    "start": 129.6,
+    "end": 130.18
+   },
+   {
+    "c": "響",
+    "start": 130.18,
+    "end": 130.84
+   },
+   {
+    "c": "い",
+    "start": 130.84,
+    "end": 131.08
+   },
+   {
+    "c": "て",
+    "start": 131.08,
+    "end": 131.36
+   },
+   {
+    "c": "き",
+    "start": 131.36,
+    "end": 131.68
+   },
+   {
+    "c": "ま",
+    "start": 131.68,
+    "end": 131.96
+   },
+   {
+    "c": "す",
+    "start": 131.96,
+    "end": 132.45
+   }
+  ],
+  "timing_source": "mms",
+  "note": null,
+  "start_16th": 123.77
+ },
+ {
+  "index": 12,
+  "start": 133.22,
+  "end": 137.29,
+  "text": "言えない恋は その胸に",
+  "words": [
+   {
+    "w": "言え",
+    "reading": "いえ",
+    "start": 133.22,
+    "end": 133.7
+   },
+   {
+    "w": "ない",
+    "reading": "ない",
+    "start": 133.7,
+    "end": 134.16
+   },
+   {
+    "w": "恋",
+    "reading": "こい",
+    "start": 134.16,
+    "end": 135.18
+   },
+   {
+    "w": "は",
+    "reading": "は",
+    "start": 135.18,
+    "end": 135.48
+   },
+   {
+    "w": "その",
+    "reading": "その",
+    "start": 135.48,
+    "end": 136.09
+   },
+   {
+    "w": "胸",
+    "reading": "むね",
+    "start": 136.09,
+    "end": 136.65
+   },
+   {
+    "w": "に",
+    "reading": "に",
+    "start": 136.65,
+    "end": 137.29
+   }
+  ],
+  "section_hint": "pre-chorus 2",
+  "repeat_of": null,
+  "confidence": 0.97,
+  "alternatives": [],
+  "reading": "いえないこいは そのむねに",
+  "romaji": "ienai koi wa sono mune ni",
+  "last_mora_start": 136.65,
+  "chars": [
+   {
+    "c": "言",
+    "start": 133.22,
+    "end": 133.5
+   },
+   {
+    "c": "え",
+    "start": 133.5,
+    "end": 133.7
+   },
+   {
+    "c": "な",
+    "start": 133.7,
+    "end": 134.04
+   },
+   {
+    "c": "い",
+    "start": 134.04,
+    "end": 134.16
+   },
+   {
+    "c": "恋",
+    "start": 134.16,
+    "end": 135.18
+   },
+   {
+    "c": "は",
+    "start": 135.18,
+    "end": 135.48
+   },
+   {
+    "c": "そ",
+    "start": 135.48,
+    "end": 135.76
+   },
+   {
+    "c": "の",
+    "start": 135.76,
+    "end": 136.09
+   },
+   {
+    "c": "胸",
+    "start": 136.09,
+    "end": 136.65
+   },
+   {
+    "c": "に",
+    "start": 136.65,
+    "end": 137.29
+   }
+  ],
+  "timing_source": "mms",
+  "note": null,
+  "start_16th": 133.19
+ },
+ {
+  "index": 13,
+  "start": 137.93,
+  "end": 142.22,
+  "text": "癒えない傷を 重ねたね",
+  "words": [
+   {
+    "w": "癒え",
+    "reading": "いえ",
+    "start": 137.93,
+    "end": 138.41
+   },
+   {
+    "w": "ない",
+    "reading": "ない",
+    "start": 138.41,
+    "end": 138.87
+   },
+   {
+    "w": "傷",
+    "reading": "きず",
+    "start": 138.87,
+    "end": 139.95
+   },
+   {
+    "w": "を",
+    "reading": "を",
+    "start": 139.95,
+    "end": 140.19
+   },
+   {
+    "w": "重ね",
+    "reading": "かさね",
+    "start": 140.19,
+    "end": 141.07
+   },
+   {
+    "w": "たね",
+    "reading": "たね",
+    "start": 141.07,
+    "end": 142.22
+   }
+  ],
+  "section_hint": "pre-chorus 2",
+  "repeat_of": null,
+  "confidence": 0.93,
+  "alternatives": [],
+  "reading": "いえないきずを かさねたね",
+  "romaji": "ienai kizu o kasane tane",
+  "last_mora_start": 141.23,
+  "chars": [
+   {
+    "c": "癒",
+    "start": 137.93,
+    "end": 138.21
+   },
+   {
+    "c": "え",
+    "start": 138.21,
+    "end": 138.41
+   },
+   {
+    "c": "な",
+    "start": 138.41,
+    "end": 138.75
+   },
+   {
+    "c": "い",
+    "start": 138.75,
+    "end": 138.87
+   },
+   {
+    "c": "傷",
+    "start": 138.87,
+    "end": 139.95
+   },
+   {
+    "c": "を",
+    "start": 139.95,
+    "end": 140.19
+   },
+   {
+    "c": "重",
+    "start": 140.19,
+    "end": 140.79
+   },
+   {
+    "c": "ね",
+    "start": 140.79,
+    "end": 141.07
+   },
+   {
+    "c": "た",
+    "start": 141.07,
+    "end": 141.23
+   },
+   {
+    "c": "ね",
+    "start": 141.23,
+    "end": 142.22
+   }
+  ],
+  "timing_source": "mms",
+  "note": null,
+  "start_16th": 137.9
+ },
+ {
+  "index": 14,
+  "start": 142.53,
+  "end": 146.99,
+  "text": "消えない愛よ 叶うなら",
+  "words": [
+   {
+    "w": "消え",
+    "reading": "きえ",
+    "start": 142.53,
+    "end": 143.13
+   },
+   {
+    "w": "ない",
+    "reading": "ない",
+    "start": 143.13,
+    "end": 143.87
+   },
+   {
+    "w": "愛",
+    "reading": "あい",
+    "start": 143.87,
+    "end": 144.59
+   },
+   {
+    "w": "よ",
+    "reading": "よ",
+    "start": 144.59,
+    "end": 144.89
+   },
+   {
+    "w": "叶う",
+    "reading": "かなう",
+    "start": 144.89,
+    "end": 145.78
+   },
+   {
+    "w": "なら",
+    "reading": "なら",
+    "start": 145.78,
+    "end": 146.99
+   }
+  ],
+  "section_hint": "pre-chorus 2",
+  "repeat_of": null,
+  "confidence": 0.93,
+  "alternatives": [],
+  "reading": "きえないあいよ かなうなら",
+  "romaji": "kienai ai yo kanau nara",
+  "last_mora_start": 146.09,
+  "chars": [
+   {
+    "c": "消",
+    "start": 142.53,
+    "end": 142.93
+   },
+   {
+    "c": "え",
+    "start": 142.93,
+    "end": 143.13
+   },
+   {
+    "c": "な",
+    "start": 143.13,
+    "end": 143.47
+   },
+   {
+    "c": "い",
+    "start": 143.47,
+    "end": 143.87
+   },
+   {
+    "c": "愛",
+    "start": 143.87,
+    "end": 144.59
+   },
+   {
+    "c": "よ",
+    "start": 144.59,
+    "end": 144.89
+   },
+   {
+    "c": "叶",
+    "start": 144.89,
+    "end": 145.63
+   },
+   {
+    "c": "う",
+    "start": 145.63,
+    "end": 145.78
+   },
+   {
+    "c": "な",
+    "start": 145.78,
+    "end": 146.09
+   },
+   {
+    "c": "ら",
+    "start": 146.09,
+    "end": 146.99
+   }
+  ],
+  "timing_source": "mms",
+  "note": null,
+  "start_16th": 142.46
+ },
+ {
+  "index": 15,
+  "start": 147.26,
+  "end": 151.33,
+  "text": "せめてこの歌を 響かせて",
+  "words": [
+   {
+    "w": "せめてこの",
+    "reading": "せめてこの",
+    "start": 147.26,
+    "end": 148.9
+   },
+   {
+    "w": "歌を",
+    "reading": "うたを",
+    "start": 148.9,
+    "end": 149.62
+   },
+   {
+    "w": "響か",
+    "reading": "ひびか",
+    "start": 149.62,
+    "end": 150.48
+   },
+   {
+    "w": "せて",
+    "reading": "せて",
+    "start": 150.48,
+    "end": 151.33
+   }
+  ],
+  "section_hint": "pre-chorus 2",
+  "repeat_of": null,
+  "confidence": 0.95,
+  "alternatives": [],
+  "reading": "せめてこのうたを ひびかせて",
+  "romaji": "semetekono utao hibika sete",
+  "last_mora_start": 150.66,
+  "chars": [
+   {
+    "c": "せ",
+    "start": 147.26,
+    "end": 147.58
+   },
+   {
+    "c": "め",
+    "start": 147.58,
+    "end": 147.86
+   },
+   {
+    "c": "て",
+    "start": 147.86,
+    "end": 148.14
+   },
+   {
+    "c": "こ",
+    "start": 148.14,
+    "end": 148.42
+   },
+   {
+    "c": "の",
+    "start": 148.42,
+    "end": 148.9
+   },
+   {
+    "c": "歌",
+    "start": 148.9,
+    "end": 149.36
+   },
+   {
+    "c": "を",
+    "start": 149.36,
+    "end": 149.62
+   },
+   {
+    "c": "響",
+    "start": 149.62,
+    "end": 150.2
+   },
+   {
+    "c": "か",
+    "start": 150.2,
+    "end": 150.48
+   },
+   {
+    "c": "せ",
+    "start": 150.48,
+    "end": 150.66
+   },
+   {
+    "c": "て",
+    "start": 150.66,
+    "end": 151.33
+   }
+  ],
+  "timing_source": "mms",
+  "note": null,
+  "start_16th": 147.167
+ },
+ {
+  "index": 16,
+  "start": 151.36,
+  "end": 155.83,
+  "text": "舞い散るひとひら ひらひらと",
+  "words": [
+   {
+    "w": "舞い",
+    "reading": "まい",
+    "start": 151.36,
+    "end": 151.94
+   },
+   {
+    "w": "散る",
+    "reading": "ちる",
+    "start": 151.94,
+    "end": 153.12
+   },
+   {
+    "w": "ひとひら",
+    "reading": "ひとひら",
+    "start": 153.12,
+    "end": 154.32
+   },
+   {
+    "w": "ひらひらと",
+    "reading": "ひらひらと",
+    "start": 154.32,
+    "end": 155.83
+   }
+  ],
+  "section_hint": "chorus 2",
+  "repeat_of": null,
+  "confidence": 0.95,
+  "alternatives": [],
+  "reading": "まいちるひとひら ひらひらと",
+  "romaji": "maichiru hitohira hirahirato",
+  "last_mora_start": 155.5,
+  "chars": [
+   {
+    "c": "舞",
+    "start": 151.36,
+    "end": 151.82
+   },
+   {
+    "c": "い",
+    "start": 151.82,
+    "end": 151.94
+   },
+   {
+    "c": "散",
+    "start": 151.94,
+    "end": 152.52
+   },
+   {
+    "c": "る",
+    "start": 152.52,
+    "end": 153.12
+   },
+   {
+    "c": "ひ",
+    "start": 153.12,
+    "end": 153.42
+   },
+   {
+    "c": "と",
+    "start": 153.42,
+    "end": 153.72
+   },
+   {
+    "c": "ひ",
+    "start": 153.72,
+    "end": 154.0
+   },
+   {
+    "c": "ら",
+    "start": 154.0,
+    "end": 154.32
+   },
+   {
+    "c": "ひ",
+    "start": 154.32,
+    "end": 154.6
+   },
+   {
+    "c": "ら",
+    "start": 154.6,
+    "end": 154.88
+   },
+   {
+    "c": "ひ",
+    "start": 154.88,
+    "end": 155.18
+   },
+   {
+    "c": "ら",
+    "start": 155.18,
+    "end": 155.5
+   },
+   {
+    "c": "と",
+    "start": 155.5,
+    "end": 155.83
+   }
+  ],
+  "timing_source": "mms",
+  "note": null,
+  "start_16th": 151.275
+ },
+ {
+  "index": 17,
+  "start": 156.16,
+  "end": 160.84,
+  "text": "今も口ずさむ 手毬歌",
+  "words": [
+   {
+    "w": "今",
+    "reading": "いま",
+    "start": 156.16,
+    "end": 156.64
+   },
+   {
+    "w": "も",
+    "reading": "も",
+    "start": 156.64,
+    "end": 157.22
+   },
+   {
+    "w": "口",
+    "reading": "くち",
+    "start": 157.22,
+    "end": 158.12
+   },
+   {
+    "w": "ずさむ",
+    "reading": "ずさむ",
+    "start": 158.12,
+    "end": 159.0
+   },
+   {
+    "w": "手毬",
+    "reading": "てまり",
+    "start": 159.0,
+    "end": 159.99
+   },
+   {
+    "w": "歌",
+    "reading": "うた",
+    "start": 159.99,
+    "end": 160.84
+   }
+  ],
+  "section_hint": "chorus 2",
+  "repeat_of": null,
+  "confidence": 0.93,
+  "alternatives": [],
+  "reading": "いまもくちずさむ てまりうた",
+  "romaji": "ima mo kuchi zusamu temari uta",
+  "last_mora_start": 160.19,
+  "chars": [
+   {
+    "c": "今",
+    "start": 156.16,
+    "end": 156.64
+   },
+   {
+    "c": "も",
+    "start": 156.64,
+    "end": 157.22
+   },
+   {
+    "c": "口",
+    "start": 157.22,
+    "end": 158.12
+   },
+   {
+    "c": "ず",
+    "start": 158.12,
+    "end": 158.42
+   },
+   {
+    "c": "さ",
+    "start": 158.42,
+    "end": 158.68
+   },
+   {
+    "c": "む",
+    "start": 158.68,
+    "end": 159.0
+   },
+   {
+    "c": "手",
+    "start": 159.0,
+    "end": 159.45
+   },
+   {
+    "c": "毬",
+    "start": 159.45,
+    "end": 159.99
+   },
+   {
+    "c": "歌",
+    "start": 159.99,
+    "end": 160.84
+   }
+  ],
+  "timing_source": "mms",
+  "note": null,
+  "start_16th": 156.13
+ },
+ {
+  "index": 18,
+  "start": 160.87,
+  "end": 165.2,
+  "text": "詠い 詠え 詠う想いを",
+  "words": [
+   {
+    "w": "詠",
+    "reading": "うた",
+    "start": 160.87,
+    "end": 161.43
+   },
+   {
+    "w": "い",
+    "reading": "い",
+    "start": 161.43,
+    "end": 162.05
+   },
+   {
+    "w": "詠",
+    "reading": "うた",
+    "start": 162.05,
+    "end": 162.65
+   },
+   {
+    "w": "え",
+    "reading": "え",
+    "start": 162.65,
+    "end": 163.51
+   },
+   {
+    "w": "詠",
+    "reading": "うた",
+    "start": 163.51,
+    "end": 163.97
+   },
+   {
+    "w": "う",
+    "reading": "う",
+    "start": 163.97,
+    "end": 164.15
+   },
+   {
+    "w": "想い",
+    "reading": "おもい",
+    "start": 164.15,
+    "end": 164.99
+   },
+   {
+    "w": "を",
+    "reading": "を",
+    "start": 164.99,
+    "end": 165.2
+   }
+  ],
+  "section_hint": "chorus 2",
+  "repeat_of": null,
+  "confidence": 0.9,
+  "alternatives": [],
+  "reading": "うたい うたえ うたうおもいを",
+  "romaji": "uta i uta e uta u omoi o",
+  "last_mora_start": 164.99,
+  "chars": [
+   {
+    "c": "詠",
+    "start": 160.87,
+    "end": 161.43
+   },
+   {
+    "c": "い",
+    "start": 161.43,
+    "end": 162.05
+   },
+   {
+    "c": "詠",
+    "start": 162.05,
+    "end": 162.65
+   },
+   {
+    "c": "え",
+    "start": 162.65,
+    "end": 163.51
+   },
+   {
+    "c": "詠",
+    "start": 163.51,
+    "end": 163.97
+   },
+   {
+    "c": "う",
+    "start": 163.97,
+    "end": 164.15
+   },
+   {
+    "c": "想",
+    "start": 164.15,
+    "end": 164.71
+   },
+   {
+    "c": "い",
+    "start": 164.71,
+    "end": 164.99
+   },
+   {
+    "c": "を",
+    "start": 164.99,
+    "end": 165.2
+   }
+  ],
+  "timing_source": "mms",
+  "note": "Whisper hears 歌い 歌え 歌う: 詠 sung うた",
+  "start_16th": 160.83
+ },
+ {
+  "index": 19,
+  "start": 165.49,
+  "end": 170.74,
+  "text": "この歌に隠して 袖時雨",
+  "words": [
+   {
+    "w": "この",
+    "reading": "この",
+    "start": 165.49,
+    "end": 166.17
+   },
+   {
+    "w": "歌",
+    "reading": "うた",
+    "start": 166.17,
+    "end": 166.95
+   },
+   {
+    "w": "に",
+    "reading": "に",
+    "start": 166.95,
+    "end": 167.25
+   },
+   {
+    "w": "隠し",
+    "reading": "かくし",
+    "start": 167.25,
+    "end": 168.13
+   },
+   {
+    "w": "て",
+    "reading": "て",
+    "start": 168.13,
+    "end": 168.41
+   },
+   {
+    "w": "袖",
+    "reading": "そで",
+    "start": 168.41,
+    "end": 169.01
+   },
+   {
+    "w": "時雨",
+    "reading": "しぐれ",
+    "start": 169.01,
+    "end": 170.74
+   }
+  ],
+  "section_hint": "chorus 2",
+  "repeat_of": null,
+  "confidence": 0.95,
+  "alternatives": [],
+  "reading": "このうたにかくして そでしぐれ",
+  "romaji": "kono uta ni kakushite sode shigure",
+  "last_mora_start": 169.61,
+  "chars": [
+   {
+    "c": "こ",
+    "start": 165.49,
+    "end": 165.79
+   },
+   {
+    "c": "の",
+    "start": 165.79,
+    "end": 166.17
+   },
+   {
+    "c": "歌",
+    "start": 166.17,
+    "end": 166.95
+   },
+   {
+    "c": "に",
+    "start": 166.95,
+    "end": 167.25
+   },
+   {
+    "c": "隠",
+    "start": 167.25,
+    "end": 167.83
+   },
+   {
+    "c": "し",
+    "start": 167.83,
+    "end": 168.13
+   },
+   {
+    "c": "て",
+    "start": 168.13,
+    "end": 168.41
+   },
+   {
+    "c": "袖",
+    "start": 168.41,
+    "end": 169.01
+   },
+   {
+    "c": "時",
+    "start": 169.01,
+    "end": 169.46
+   },
+   {
+    "c": "雨",
+    "start": 169.46,
+    "end": 170.74
+   }
+  ],
+  "timing_source": "mms",
+  "note": null,
+  "start_16th": 165.395
+ },
+ {
+  "index": 20,
+  "start": 191.92,
+  "end": 198.72,
+  "text": "泣かないで 顔上げて",
+  "words": [
+   {
+    "w": "泣か",
+    "reading": "なか",
+    "start": 191.92,
+    "end": 193.1
+   },
+   {
+    "w": "ないで",
+    "reading": "ないで",
+    "start": 193.1,
+    "end": 194.99
+   },
+   {
+    "w": "顔",
+    "reading": "かお",
+    "start": 194.99,
+    "end": 195.89
+   },
+   {
+    "w": "上げ",
+    "reading": "あげ",
+    "start": 195.89,
+    "end": 196.67
+   },
+   {
+    "w": "て",
+    "reading": "て",
+    "start": 196.67,
+    "end": 198.72
+   }
+  ],
+  "section_hint": "bridge (C-melo)",
+  "repeat_of": null,
+  "confidence": 0.85,
+  "alternatives": [],
+  "reading": "なかないで かおあげて",
+  "romaji": "nakanaide kao agete",
+  "last_mora_start": 196.67,
+  "chars": [
+   {
+    "c": "泣",
+    "start": 191.92,
+    "end": 192.52
+   },
+   {
+    "c": "か",
+    "start": 192.52,
+    "end": 193.1
+   },
+   {
+    "c": "な",
+    "start": 193.1,
+    "end": 194.04
+   },
+   {
+    "c": "い",
+    "start": 194.04,
+    "end": 194.3
+   },
+   {
+    "c": "で",
+    "start": 194.3,
+    "end": 194.99
+   },
+   {
+    "c": "顔",
+    "start": 194.99,
+    "end": 195.89
+   },
+   {
+    "c": "上",
+    "start": 195.89,
+    "end": 196.09
+   },
+   {
+    "c": "げ",
+    "start": 196.09,
+    "end": 196.67
+   },
+   {
+    "c": "て",
+    "start": 196.67,
+    "end": 198.72
+   }
+  ],
+  "timing_source": "mms",
+  "note": "Whisper heard 泣いた 溶けた",
+  "start_16th": 191.865
+ },
+ {
+  "index": 21,
+  "start": 198.75,
+  "end": 207.79,
+  "text": "この空で あなたを 見ているわ",
+  "words": [
+   {
+    "w": "この",
+    "reading": "この",
+    "start": 198.75,
+    "end": 199.61
+   },
+   {
+    "w": "空",
+    "reading": "そら",
+    "start": 199.61,
+    "end": 200.75
+   },
+   {
+    "w": "で",
+    "reading": "で",
+    "start": 200.75,
+    "end": 202.05
+   },
+   {
+    "w": "あなたを",
+    "reading": "あなたを",
+    "start": 202.05,
+    "end": 206.06
+   },
+   {
+    "w": "見て",
+    "reading": "みて",
+    "start": 206.06,
+    "end": 206.78
+   },
+   {
+    "w": "いるわ",
+    "reading": "いるわ",
+    "start": 206.78,
+    "end": 207.79
+   }
+  ],
+  "section_hint": "bridge (C-melo)",
+  "repeat_of": null,
+  "confidence": 0.8,
+  "alternatives": [],
+  "reading": "このそらで あなたを みているわ",
+  "romaji": "kono sora de anatao mite iruwa",
+  "last_mora_start": 207.24,
+  "chars": [
+   {
+    "c": "こ",
+    "start": 198.75,
+    "end": 199.07
+   },
+   {
+    "c": "の",
+    "start": 199.07,
+    "end": 199.61
+   },
+   {
+    "c": "空",
+    "start": 199.61,
+    "end": 200.75
+   },
+   {
+    "c": "で",
+    "start": 200.75,
+    "end": 202.05
+   },
+   {
+    "c": "あ",
+    "start": 202.05,
+    "end": 202.33
+   },
+   {
+    "c": "な",
+    "start": 202.33,
+    "end": 204.3
+   },
+   {
+    "c": "た",
+    "start": 204.3,
+    "end": 205.04
+   },
+   {
+    "c": "を",
+    "start": 205.04,
+    "end": 206.06
+   },
+   {
+    "c": "見",
+    "start": 206.06,
+    "end": 206.38
+   },
+   {
+    "c": "て",
+    "start": 206.38,
+    "end": 206.78
+   },
+   {
+    "c": "い",
+    "start": 206.78,
+    "end": 206.96
+   },
+   {
+    "c": "る",
+    "start": 206.96,
+    "end": 207.24
+   },
+   {
+    "c": "わ",
+    "start": 207.24,
+    "end": 207.79
+   }
+  ],
+  "timing_source": "mms",
+  "note": "long line with gaps; 見ているわ ~205.6 s",
+  "start_16th": 198.638
+ },
+ {
+  "index": 22,
+  "start": 207.82,
+  "end": 212.29,
+  "text": "染まり逝く 木々のように赤く",
+  "words": [
+   {
+    "w": "染ま",
+    "reading": "そま",
+    "start": 207.82,
+    "end": 208.44
+   },
+   {
+    "w": "り",
+    "reading": "り",
+    "start": 208.44,
+    "end": 209.0
+   },
+   {
+    "w": "逝く",
+    "reading": "ゆくきぎ",
+    "start": 209.0,
+    "end": 210.2
+   },
+   {
+    "w": "木々",
+    "reading": "のよ",
+    "start": 210.2,
+    "end": 210.78
+   },
+   {
+    "w": "のように",
+    "reading": "うにあか",
+    "start": 210.78,
+    "end": 211.97
+   },
+   {
+    "w": "赤く",
+    "reading": "く",
+    "start": 211.97,
+    "end": 212.29
+   }
+  ],
+  "section_hint": "final chorus",
+  "repeat_of": null,
+  "confidence": 0.93,
+  "alternatives": [],
+  "reading": "そまりゆく きぎのようにあかく",
+  "romaji": "soma ri yukukigi noyo uniaka ku",
+  "last_mora_start": 211.97,
+  "chars": [
+   {
+    "c": "染",
+    "start": 207.82,
+    "end": 208.12
+   },
+   {
+    "c": "ま",
+    "start": 208.12,
+    "end": 208.44
+   },
+   {
+    "c": "り",
+    "start": 208.44,
+    "end": 209.0
+   },
+   {
+    "c": "逝",
+    "start": 209.0,
+    "end": 210.06
+   },
+   {
+    "c": "く",
+    "start": 210.06,
+    "end": 210.2
+   },
+   {
+    "c": "木",
+    "start": 210.2,
+    "end": 210.49
+   },
+   {
+    "c": "々",
+    "start": 210.49,
+    "end": 210.78
+   },
+   {
+    "c": "の",
+    "start": 210.78,
+    "end": 211.04
+   },
+   {
+    "c": "よ",
+    "start": 211.04,
+    "end": 211.47
+   },
+   {
+    "c": "う",
+    "start": 211.47,
+    "end": 211.67
+   },
+   {
+    "c": "に",
+    "start": 211.67,
+    "end": 211.97
+   },
+   {
+    "c": "赤",
+    "start": 211.97,
+    "end": 212.13
+   },
+   {
+    "c": "く",
+    "start": 212.13,
+    "end": 212.29
+   }
+  ],
+  "timing_source": "mms",
+  "note": null,
+  "start_16th": 207.752
+ },
+ {
+  "index": 23,
+  "start": 212.55,
+  "end": 217.12,
+  "text": "この胸に散る 楓 ひとひら",
+  "words": [
+   {
+    "w": "この",
+    "reading": "この",
+    "start": 212.55,
+    "end": 213.13
+   },
+   {
+    "w": "胸",
+    "reading": "むね",
+    "start": 213.13,
+    "end": 214.31
+   },
+   {
+    "w": "に",
+    "reading": "に",
+    "start": 214.31,
+    "end": 214.59
+   },
+   {
+    "w": "散る",
+    "reading": "ちる",
+    "start": 214.59,
+    "end": 214.91
+   },
+   {
+    "w": "楓",
+    "reading": "かえで",
+    "start": 214.91,
+    "end": 215.79
+   },
+   {
+    "w": "ひとひら",
+    "reading": "ひとひら",
+    "start": 215.79,
+    "end": 217.12
+   }
+  ],
+  "section_hint": "final chorus",
+  "repeat_of": null,
+  "confidence": 0.93,
+  "alternatives": [],
+  "reading": "このむねにちる かえで ひとひら",
+  "romaji": "kono mune ni chiru kaede hitohira",
+  "last_mora_start": 216.65,
+  "chars": [
+   {
+    "c": "こ",
+    "start": 212.55,
+    "end": 212.83
+   },
+   {
+    "c": "の",
+    "start": 212.83,
+    "end": 213.13
+   },
+   {
+    "c": "胸",
+    "start": 213.13,
+    "end": 214.31
+   },
+   {
+    "c": "に",
+    "start": 214.31,
+    "end": 214.59
+   },
+   {
+    "c": "散",
+    "start": 214.59,
+    "end": 214.75
+   },
+   {
+    "c": "る",
+    "start": 214.75,
+    "end": 214.91
+   },
+   {
+    "c": "楓",
+    "start": 214.91,
+    "end": 215.79
+   },
+   {
+    "c": "ひ",
+    "start": 215.79,
+    "end": 216.09
+   },
+   {
+    "c": "と",
+    "start": 216.09,
+    "end": 216.37
+   },
+   {
+    "c": "ひ",
+    "start": 216.37,
+    "end": 216.65
+   },
+   {
+    "c": "ら",
+    "start": 216.65,
+    "end": 217.12
+   }
+  ],
+  "timing_source": "mms",
+  "note": null,
+  "start_16th": 212.455
+ },
+ {
+  "index": 24,
+  "start": 217.25,
+  "end": 221.91,
+  "text": "木枯らしに抱かれ 眠りたい",
+  "words": [
+   {
+    "w": "木枯",
+    "reading": "こがらし",
+    "start": 217.25,
+    "end": 218.99
+   },
+   {
+    "w": "らしに",
+    "reading": "にだか",
+    "start": 218.99,
+    "end": 220.19
+   },
+   {
+    "w": "抱か",
+    "reading": "れね",
+    "start": 220.19,
+    "end": 220.63
+   },
+   {
+    "w": "れ",
+    "reading": "むり",
+    "start": 220.63,
+    "end": 221.09
+   },
+   {
+    "w": "眠り",
+    "reading": "たい",
+    "start": 221.09,
+    "end": 221.91
+   }
+  ],
+  "section_hint": "final chorus",
+  "repeat_of": null,
+  "confidence": 0.85,
+  "alternatives": [],
+  "reading": "こがらしにだかれ ねむりたい",
+  "romaji": "kogarashi nidaka rene muri tai",
+  "last_mora_start": 221.5,
+  "chars": [
+   {
+    "c": "木",
+    "start": 217.25,
+    "end": 217.83
+   },
+   {
+    "c": "枯",
+    "start": 217.83,
+    "end": 218.99
+   },
+   {
+    "c": "ら",
+    "start": 218.99,
+    "end": 219.61
+   },
+   {
+    "c": "し",
+    "start": 219.61,
+    "end": 219.89
+   },
+   {
+    "c": "に",
+    "start": 219.89,
+    "end": 220.19
+   },
+   {
+    "c": "抱",
+    "start": 220.19,
+    "end": 220.49
+   },
+   {
+    "c": "か",
+    "start": 220.49,
+    "end": 220.63
+   },
+   {
+    "c": "れ",
+    "start": 220.63,
+    "end": 220.81
+   },
+   {
+    "c": "眠",
+    "start": 221.09,
+    "end": 221.5
+   },
+   {
+    "c": "り",
+    "start": 221.5,
+    "end": 221.91
+   }
+  ],
+  "timing_source": "mms",
+  "note": "forced scoring tie: だかれ -37.3 / いだかれ -38.9 (stem), -31.6 / -31.7 (centre)",
+  "start_16th": 217.155
+ },
+ {
+  "index": 25,
+  "start": 221.94,
+  "end": 226.65,
+  "text": "胸に散らす 紅時雨",
+  "words": [
+   {
+    "w": "胸",
+    "reading": "むね",
+    "start": 221.94,
+    "end": 222.54
+   },
+   {
+    "w": "に",
+    "reading": "に",
+    "start": 222.54,
+    "end": 223.12
+   },
+   {
+    "w": "散ら",
+    "reading": "ちら",
+    "start": 223.12,
+    "end": 223.72
+   },
+   {
+    "w": "す",
+    "reading": "す",
+    "start": 223.72,
+    "end": 224.3
+   },
+   {
+    "w": "紅",
+    "reading": "くれない",
+    "start": 224.3,
+    "end": 225.5
+   },
+   {
+    "w": "時雨",
+    "reading": "しぐれ",
+    "start": 225.5,
+    "end": 226.65
+   }
+  ],
+  "section_hint": "final chorus",
+  "repeat_of": null,
+  "confidence": 0.8,
+  "alternatives": [],
+  "reading": "むねにちらす くれないしぐれ",
+  "romaji": "mune ni chira su kurenai shigure",
+  "last_mora_start": 226.1,
+  "chars": [
+   {
+    "c": "胸",
+    "start": 221.94,
+    "end": 222.54
+   },
+   {
+    "c": "に",
+    "start": 222.54,
+    "end": 223.12
+   },
+   {
+    "c": "散",
+    "start": 223.12,
+    "end": 223.44
+   },
+   {
+    "c": "ら",
+    "start": 223.44,
+    "end": 223.72
+   },
+   {
+    "c": "す",
+    "start": 223.72,
+    "end": 224.3
+   },
+   {
+    "c": "紅",
+    "start": 224.3,
+    "end": 225.5
+   },
+   {
+    "c": "時",
+    "start": 225.5,
+    "end": 225.95
+   },
+   {
+    "c": "雨",
+    "start": 225.95,
+    "end": 226.65
+   }
+  ],
+  "timing_source": "mms",
+  "note": "Whisper heard 紅いシグネ; forced scoring: くれない -23.5 vs べに -44.2",
+  "start_16th": 221.865
+ },
+ {
+  "index": 26,
+  "start": 226.68,
+  "end": 235.91,
+  "text": "風は歌う 秋風恋歌 時雨はいつしか 風花に",
+  "words": [
+   {
+    "w": "風",
+    "reading": "かぜ",
+    "start": 226.68,
+    "end": 227.24
+   },
+   {
+    "w": "は",
+    "reading": "は",
+    "start": 227.24,
+    "end": 227.92
+   },
+   {
+    "w": "歌う",
+    "reading": "うたう",
+    "start": 227.92,
+    "end": 229.09
+   },
+   {
+    "w": "秋風",
+    "reading": "あきかぜ",
+    "start": 229.09,
+    "end": 230.21
+   },
+   {
+    "w": "恋歌",
+    "reading": "れんかしぐれ",
+    "start": 230.21,
+    "end": 232.57
+   },
+   {
+    "w": "時雨",
+    "reading": "はいつ",
+    "start": 232.57,
+    "end": 233.71
+   },
+   {
+    "w": "はいつしか",
+    "reading": "しかかざはな",
+    "start": 233.71,
+    "end": 235.49
+   },
+   {
+    "w": "風花",
+    "reading": "に",
+    "start": 235.49,
+    "end": 235.91
+   }
+  ],
+  "section_hint": "outro",
+  "repeat_of": null,
+  "confidence": 0.8,
+  "alternatives": [],
+  "reading": "かぜはうたう あきかぜれんか しぐれはいつしか かざはなに",
+  "romaji": "kaze wa utau akikaze renkashigure haitsu shikakazahana ni ",
+  "last_mora_start": 235.49,
+  "chars": [
+   {
+    "c": "風",
+    "start": 226.68,
+    "end": 227.24
+   },
+   {
+    "c": "は",
+    "start": 227.24,
+    "end": 227.92
+   },
+   {
+    "c": "歌",
+    "start": 227.92,
+    "end": 228.78
+   },
+   {
+    "c": "う",
+    "start": 228.78,
+    "end": 229.09
+   },
+   {
+    "c": "秋",
+    "start": 229.09,
+    "end": 229.61
+   },
+   {
+    "c": "風",
+    "start": 229.61,
+    "end": 230.21
+   },
+   {
+    "c": "恋",
+    "start": 230.21,
+    "end": 231.35
+   },
+   {
+    "c": "歌",
+    "start": 231.35,
+    "end": 232.57
+   },
+   {
+    "c": "時",
+    "start": 232.57,
+    "end": 233.32
+   },
+   {
+    "c": "雨",
+    "start": 233.32,
+    "end": 233.71
+   },
+   {
+    "c": "は",
+    "start": 233.71,
+    "end": 234.03
+   },
+   {
+    "c": "い",
+    "start": 234.03,
+    "end": 234.31
+   },
+   {
+    "c": "つ",
+    "start": 234.31,
+    "end": 234.61
+   },
+   {
+    "c": "し",
+    "start": 234.61,
+    "end": 234.91
+   },
+   {
+    "c": "か",
+    "start": 234.91,
+    "end": 235.19
+   },
+   {
+    "c": "風",
+    "start": 235.49,
+    "end": 235.7
+   },
+   {
+    "c": "花",
+    "start": 235.7,
+    "end": 235.91
+   }
+  ],
+  "timing_source": "mms",
+  "note": "forced scoring: あきかぜれんか -19.6 vs しゅうふうれんか -45.8",
+  "start_16th": 226.575
+ },
+ {
+  "index": 27,
+  "start": 236.07,
+  "end": 245.84,
+  "text": "風に吹かれ消える想いは 私を濡らしてゆく 恋しぐれ",
+  "words": [
+   {
+    "w": "風",
+    "reading": "かぜ",
+    "start": 236.07,
+    "end": 236.65
+   },
+   {
+    "w": "に",
+    "reading": "に",
+    "start": 236.65,
+    "end": 237.24
+   },
+   {
+    "w": "吹か",
+    "reading": "ふか",
+    "start": 237.24,
+    "end": 238.48
+   },
+   {
+    "w": "れ",
+    "reading": "れ",
+    "start": 238.48,
+    "end": 238.74
+   },
+   {
+    "w": "消え",
+    "reading": "きえ",
+    "start": 238.74,
+    "end": 239.3
+   },
+   {
+    "w": "る",
+    "reading": "る",
+    "start": 239.3,
+    "end": 239.72
+   },
+   {
+    "w": "想い",
+    "reading": "おもい",
+    "start": 239.72,
+    "end": 240.2
+   },
+   {
+    "w": "は",
+    "reading": "は",
+    "start": 240.2,
+    "end": 240.24
+   },
+   {
+    "w": "私",
+    "reading": "わたし",
+    "start": 240.24,
+    "end": 240.44
+   },
+   {
+    "w": "を",
+    "reading": "を",
+    "start": 240.44,
+    "end": 240.46
+   },
+   {
+    "w": "濡ら",
+    "reading": "ぬら",
+    "start": 240.46,
+    "end": 240.54
+   },
+   {
+    "w": "してゆく",
+    "reading": "してゆく",
+    "start": 240.54,
+    "end": 240.84
+   },
+   {
+    "w": "恋し",
+    "reading": "こいし",
+    "start": 240.84,
+    "end": 241.3
+   },
+   {
+    "w": "ぐれ",
+    "reading": "ぐれ",
+    "start": 241.3,
+    "end": 245.84
+   }
+  ],
+  "section_hint": "outro",
+  "repeat_of": null,
+  "confidence": 0.93,
+  "alternatives": [],
+  "reading": "かぜにふかれきえるおもいは わたしをぬらしてゆく こいしぐれ",
+  "romaji": "kaze ni fuka re kie ru omoi wa watashi o nura shiteyuku koishi gure",
+  "last_mora_start": 241.34,
+  "chars": [
+   {
+    "c": "風",
+    "start": 236.07,
+    "end": 236.65
+   },
+   {
+    "c": "に",
+    "start": 236.65,
+    "end": 237.24
+   },
+   {
+    "c": "吹",
+    "start": 237.24,
+    "end": 237.84
+   },
+   {
+    "c": "か",
+    "start": 237.84,
+    "end": 238.48
+   },
+   {
+    "c": "れ",
+    "start": 238.48,
+    "end": 238.74
+   },
+   {
+    "c": "消",
+    "start": 238.74,
+    "end": 239.1
+   },
+   {
+    "c": "え",
+    "start": 239.1,
+    "end": 239.3
+   },
+   {
+    "c": "る",
+    "start": 239.3,
+    "end": 239.72
+   },
+   {
+    "c": "想",
+    "start": 239.72,
+    "end": 240.0
+   },
+   {
+    "c": "い",
+    "start": 240.0,
+    "end": 240.2
+   },
+   {
+    "c": "は",
+    "start": 240.2,
+    "end": 240.24
+   },
+   {
+    "c": "私",
+    "start": 240.24,
+    "end": 240.44
+   },
+   {
+    "c": "を",
+    "start": 240.44,
+    "end": 240.46
+   },
+   {
+    "c": "濡",
+    "start": 240.46,
+    "end": 240.5
+   },
+   {
+    "c": "ら",
+    "start": 240.5,
+    "end": 240.54
+   },
+   {
+    "c": "し",
+    "start": 240.54,
+    "end": 240.72
+   },
+   {
+    "c": "て",
+    "start": 240.72,
+    "end": 240.76
+   },
+   {
+    "c": "ゆ",
+    "start": 240.76,
+    "end": 240.8
+   },
+   {
+    "c": "く",
+    "start": 240.8,
+    "end": 240.84
+   },
+   {
+    "c": "恋",
+    "start": 240.84,
+    "end": 241.1
+   },
+   {
+    "c": "し",
+    "start": 241.1,
+    "end": 241.3
+   },
+   {
+    "c": "ぐ",
+    "start": 241.3,
+    "end": 241.34
+   },
+   {
+    "c": "れ",
+    "start": 241.34,
+    "end": 245.84
+   }
+  ],
+  "timing_source": "mms",
+  "note": "onset verified; mora times after 240.2 s are unreliable (the last MMS window ends at approx start + 6 s = 241.4 s, the line runs to ~245 s). 私を starts ~240.80 (breath gap 240.50-240.75)",
+  "start_16th": 235.978
+ }
+]

@@ -1,0 +1,17 @@
+[
+  [0, 7, "intro", "intro-quiet", "Intro (quiet)", "sparse, fragile opening before the band", "quietest section of the song (energy 0.17)"],
+  [8, 16, "intro", "intro-band", "Intro (band)", "band enters, first statement of the theme", "band comes in on bar 8 (~17.9 s)"],
+  [17, 24, "verse", "verse", "Verse 1", "two long lines, walking alone on the path", "line 1 starts on the bar 17 downbeat (39.0 s)"],
+  [25, 32, "pre-chorus", "pre", "Pre-chorus 1", "four short lines, 手鞠花 / 手毬歌 / her voice", "lines on every second downbeat"],
+  [33, 41, "chorus", "chorus", "Chorus 1", "falling leaves, つがいの楓, 片時雨", "each line is a ~0.65 s pickup into bars 33/35/37/39; 片時雨 is held into bar 41"],
+  [42, 48, "interlude", "interlude", "Interlude 1", "instrumental after chorus 1", "no vocals 97.9-114.3 s"],
+  [49, 56, "verse", "verse", "Verse 2", "wind in the trees, her voice in the chest", "line starts on the bar 49 downbeat (114.3 s)"],
+  [57, 64, "pre-chorus", "pre", "Pre-chorus 2", "言えない / 癒えない / 消えない: the unspoken love", "lines on every second downbeat"],
+  [65, 72, "chorus", "chorus", "Chorus 2", "手毬歌 still hummed, 袖時雨", "pickups into bars 65/67/69/71; last line ends on bar 73"],
+  [73, 78, "break", "break", "Break", "quiet instrumental drop after chorus 2", "energy falls to 0.29"],
+  [79, 81, "interlude", "build", "Build", "the band climbs back toward the bridge", "+2 dB at bar 79 (185.0 s) and bar 81 (189.7 s)"],
+  [82, 88, "bridge", "bridge", "Bridge", "千鶴 speaks: 泣かないで、顔上げて / この空で、あなたを、見ているわ", "largest energy jump of the song at bar 86 (201.4 s, +3 dB)"],
+  [89, 96, "last-chorus", "chorus", "Last chorus", "染まり逝く木々, 楓ひとひら, 紅時雨: the loudest stretch", "pickups into bars 89/91/93/95"],
+  [97, 104, "last-chorus", "coda", "Coda (title lines)", "風は歌う、秋風恋歌 / 時雨はいつしか、風花に / 恋しぐれ", "last sung words end ~245.8 s (bar 104)"],
+  [105, 118, "outro", "outro", "Outro", "instrumental to the end; fades out", "vocal stem has wordless content or lead bleed 252-270 s (unconfirmed); music ends 280.12 s"]
+]
