@@ -55,4 +55,4 @@ Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine,
 - 不寫任何既有角色、作品或畫家的名字當參考；每個定稿提示都寫明 `ORIGINAL character, not any existing anime or manga character`。
 - 千鶴的辮子在**左肩**、綠楓髮飾在**右側**；小夜的蝴蝶結在**後腦**。每張圖都對一次，模型常把左右畫反。
 - 不在素材裡畫文字、印章或簽名。
-- 生成姿勢圖前一定先定好 `assets/char/REF_sayo.png` 與 `assets/char/REF_chizuru.png`。
+- 姿勢圖一律附定稿參考圖：`assets/char/REF_sayo.png`（＝`master_sayo_b`）與 `assets/char/REF_chizuru.png`（＝`master_chizuru_b`），檢查點 2 由使用者選定。

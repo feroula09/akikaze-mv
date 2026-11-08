@@ -36,7 +36,7 @@
 
   // ------------------------------------------------------------------ film identity (new_project.py --title / --title-sub / --artist / --credit set these)
   Z.TITLE = '秋風恋歌';                                   // HUD, vertical header, end card
-  Z.TITLE_SUB = '';                           // small Latin line under the title ('' = none)
+  Z.TITLE_SUB = 'AKIKAZE RENKA';                           // small Latin line under the title ('' = none)
   Z.ARTIST = 'DeZI：R';                              // artist name, used by the 9:16 header -- ask the artist
   Z.CREDIT = '原曲：秋風恋歌 / DeZI：R';      // title lockups, end card, vertical footer -- ask the artist
 
