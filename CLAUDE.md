@@ -6,7 +6,7 @@
 
 ### Issue tracker
 
-Issues 和 spec 開在 GitHub private repo feroula09/akikaze-mv（用 `gh`）。See `docs/agents/issue-tracker.md`.
+Issues 和 spec 開在 GitHub public repo feroula09/akikaze-mv（用 `gh`）。See `docs/agents/issue-tracker.md`.
 
 ### Triage labels
 
