@@ -66,13 +66,13 @@
         decor: 'dots arrows shapes qrBlock triangleSpin checkerStrip confetti petals heartsStars kamon seigaiha asanoha hanabi chochin shimenawa sensu momiji namiGashira memphis zigzagRibbon polkaPatch stripeCircle starburst cursorClick windowChrome progressBar toggleSwitch notifBell likeCounter mediaControls volumeBars musicNotes bubbles dandelion vines cloudPuffs tapePieces highlightMark staple paperClip indexTabs punchHoles swatches spinner tally qrBlock bracketsJP loopArrows halfCircles decoCorners tyColophon dateStamp tyTypeScale tyTextRule dataColumns timecodeBar rainStreaks glitchRects barcode reticle crosshair bars',
         cam: 'knCardFlip jelly bounce knJumpCut knTiltKick knReadPan knShearKick knRushIn shakeHard whipIn crashZoom beatPunch',
         treat: 'boxed marker knWordPlate circled sticker splitColor rainbow chrome extrude glow',
-        enter: 'bubbles stickerPeel crumple loadingBar tokoroten bounceBig rubber neonOn',
+        enter: 'bubbles stickerPeel crumple loadingBar tokoroten bounceBig rubber neonOn heatHaze',
         exit: 'balloonOff crumpleOut peelOff popOut spinOut',
         bg: 'argyle tartan chevron houndstooth herringbone polka checker retroGrid eqBars kaleidoscope fireworks sunburst bigStripes isoCubes seigaiha asanoha tvBars splitDiag spiralArms squareTunnel moire noiseField scanBars',
         trans: 'flashCross shatterTiles knCornerSwing knStripSlam checker cubeTurn spinOut doorsOpen pixelate knStutterCut',
       };
-      DENY.layout += ' shadowPlay glitchGrid tyBandHide tyRuby kanjiFocus contour circle tunnel curtain mirror type frameBox tyBaseline';   // + HUD-like labels (prompt, LINE nn, timecodes)   // giant glyphs over faces, blobs, black bars
-      DENY.decor += ' watermarkKanji constellation moonPhases rulerEdge waveform grid rings headingTape fireflies atomOrbit cropMarks romajiLine tyRunningHead guides halftonePatch counter glyphLock';   // gimmicks / additive light
+      DENY.layout += ' shadowPlay glitchGrid tyBandHide tyRuby kanjiFocus contour circle tunnel curtain mirror type frameBox tyBaseline condensed gloss columnsBig tyLineFocus tyVRuler huge maskReveal tyErode tyCropGiant knQuarterTurn';   // + HUD-like labels (prompt, LINE nn, timecodes)   // giant glyphs over faces, blobs, black bars
+      DENY.decor += ' watermarkKanji constellation moonPhases rulerEdge waveform grid rings headingTape fireflies atomOrbit cropMarks romajiLine tyRunningHead guides halftonePatch counter glyphLock sonarArcs tyBigPunct registration indexNum';   // gimmicks / additive light
       DENY.bg += ' vhsBand filmStrip borderFrame bokehBg';
       const MOODS = ['emotional', 'calm', 'editorial'];       // a quiet ballad: no glitch / pop parts
       const enabled = {};
@@ -115,7 +115,7 @@
     const drift = (o = {}) => AK.leaves(Object.assign({ n: 14, size: [36, 70], fall: 90, wind: 25, alpha: 0.95 }, o));
 
     // 3D shots: until the Blender renders exist (blender/renders/<shot>/f_####.jpg) a 2D stand-in on the same plate
-    const HAVE_3D = { pathA: false, stormB: false };
+    const HAVE_3D = { pathA: true, stormB: false };
 
     // ===== Intro (quiet) b0-8 : 和紙 -- the pair meets and is blown apart
     shot('s01', 0, B(4), 'leaves', { bg: BG + 'bg_washi.png', mode: 'pair', meet: B(3), cx: 960, cy: 470, r: 150, size: 260 },
@@ -141,9 +141,13 @@
       ctx.fillText(Z.CREDIT, 960, 640);
       ctx.restore();
     };
-    if (HAVE_3D.pathA) {
-      shot('s03', B(8), B(17), 'seq', { pattern: 'blender/renders/pathA/f_####.jpg', t0: B(8), fps: 30 }, { lyric: 'none', hud: false, text: titleText, post: look('ima', 0.1) });
-      shot('s04', B(17), B(21), 'seq', { pattern: 'blender/renders/pathA/f_####.jpg', t0: B(8), fps: 30 }, { post: look('ima', 0.1) });
+    if (HAVE_3D.pathA) {                                        // rendered on twos: 459 frames at 15 fps, frame 1 = B(8)
+      const pathA = { pattern: 'blender/renders/pathA/f_####.jpg', t0: B(8), fps: 15, frames: 459 };
+      shot('s03', B(8), B(17), 'seqx', Object.assign({ fx: [drift({ seed: 3 })] }, pathA),
+        { lyric: 'none', hud: false, text: titleText, trans: xf(0.25), post: look('ima', 0.1) });
+      shot('s04', B(17), B(21), 'seqx', Object.assign({
+        chars: [sayo('sayo_walk_back', 1180, 900, 380, { x2: 1220, y2: 860, h2: 330, in: { dur: 1.2 } })], fx: [drift({ seed: 4 })] }, pathA),
+        { trans: { type: 'cut' }, post: look('ima', 0.1) });
     } else {
       ill('s03', B(8), B(17), { bg: BG + 'bg_path_present.png', bgFrom: { zoom: 1.0, x: -0.2, y: 0.4 }, bgTo: { zoom: 1.32, x: 0.25, y: -0.1 }, bgEase: 'linear', fx: [drift({ seed: 3 })] },
         { lyric: 'none', hud: false, text: titleText, trans: xf(0.25), post: look('ima', 0.1) });
@@ -281,7 +285,8 @@
       chars: [chizu('chizuru_smile', 960, 1120, 1000)] }, { plan: 'hand', trans: xf(0.3), post: look('kazahana', 0.05, { exposure: -0.06 }) });
 
     // ===== Last chorus b89-97 : full crimson
-    if (HAVE_3D.stormB) shot('s46', nb(207.82), B(92), 'seq', { pattern: 'blender/renders/stormB/f_####.jpg', t0: nb(207.82), fps: 30 }, { post: look('momiji', 0.08) });
+    if (HAVE_3D.stormB) shot('s46', nb(207.82), B(92), 'seq', { pattern: 'blender/renders/stormB/f_####.jpg', t0: nb(207.82), fps: 30, frames: 230 },
+      { trans: { type: 'cut' }, post: look('momiji', 0.08) });
     else ill('s46', nb(207.82), B(92), { bg: BG + 'bg_forest_red.png', bgFrom: { zoom: 1.0, y: 0.5 }, bgTo: { zoom: 1.4, y: -0.3 }, bgEase: 'inOutSine',
       fx: [AK.leaves({ n: 90, seed: 46, size: [40, 120], fall: 260, wind: 60, red: 0.97 })] }, { trans: { type: 'cut' }, post: look('momiji', 0.08) });
     ill('s47', B(92), nb(221.94), { bg: BG + 'bg_forest_red.png', bgFrom: { zoom: 1.2, y: 0.6 }, bgTo: { zoom: 1.25, y: 0.3 },

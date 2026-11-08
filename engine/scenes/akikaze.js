@@ -10,6 +10,7 @@
  *   scene 'leaves'            つがいの楓 choreography: pair / part / solo / rise
  *   scene 'iienai'            a vertical brush word written stroke by stroke, then melted by rain
  *   scene 'oshiba'            pressed leaves appearing in washi + small title + end card
+ *   scene 'seqx'              a Blender 'seq' sequence with 2D characters and fx on top
  */
 (() => {
   'use strict';
@@ -254,6 +255,18 @@
       };
       if (a.title) { txt(Z.TITLE, 1240, 520, 92, 'brush', 400, a.title.at); txt(Z.TITLE_SUB, 1246, 572, 22, 'mincho', 500, a.title.at + 0.4, '#6E655A'); }
       if (a.credits) a.credits.lines.forEach((s, i) => txt(s, 1246, 660 + i * 44, 26, 'mincho', 500, a.credits.at + i * 0.5, '#6E655A'));
+    },
+  });
+
+  // ---------------------------------------------------------------- scene: Blender sequence + 2D characters / fx
+  // args: everything 'seq' takes, plus chars (Z.drawChar specs) and fx (drawn after the characters)
+  Z.scene('seqx', {
+    preload: a => (a.chars || []).map(c => c.img),
+    init: () => Z.SCENES.seq.init(),
+    async draw(ctx, S) {
+      await Z.SCENES.seq.draw(ctx, S);
+      for (const c of S.args.chars || []) Z.drawChar(ctx, S, c);
+      for (const f of S.args.fx || []) Z.fx(ctx, S, f);
     },
   });
 
