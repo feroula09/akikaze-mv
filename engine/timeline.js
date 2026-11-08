@@ -115,7 +115,7 @@
     const drift = (o = {}) => AK.leaves(Object.assign({ n: 14, size: [36, 70], fall: 90, wind: 25, alpha: 0.95 }, o));
 
     // 3D shots: until the Blender renders exist (blender/renders/<shot>/f_####.jpg) a 2D stand-in on the same plate
-    const HAVE_3D = { pathA: true, stormB: false };
+    const HAVE_3D = { pathA: true, stormB: true };
 
     // ===== Intro (quiet) b0-8 : 和紙 -- the pair meets and is blown apart
     shot('s01', 0, B(4), 'leaves', { bg: BG + 'bg_washi.png', mode: 'pair', meet: B(3), cx: 960, cy: 470, r: 150, size: 260 },
