@@ -66,15 +66,21 @@
         decor: 'dots arrows shapes qrBlock triangleSpin checkerStrip confetti petals heartsStars kamon seigaiha asanoha hanabi chochin shimenawa sensu momiji namiGashira memphis zigzagRibbon polkaPatch stripeCircle starburst cursorClick windowChrome progressBar toggleSwitch notifBell likeCounter mediaControls volumeBars musicNotes bubbles dandelion vines cloudPuffs tapePieces highlightMark staple paperClip indexTabs punchHoles swatches spinner tally qrBlock bracketsJP loopArrows halfCircles decoCorners tyColophon dateStamp tyTypeScale tyTextRule dataColumns timecodeBar rainStreaks glitchRects barcode reticle crosshair bars',
         cam: 'knCardFlip jelly bounce knJumpCut knTiltKick knReadPan knShearKick knRushIn shakeHard whipIn crashZoom beatPunch',
         treat: 'boxed marker knWordPlate circled sticker splitColor rainbow chrome extrude glow',
-        enter: 'bubbles stickerPeel crumple loadingBar tokoroten bounceBig rubber neonOn heatHaze',
-        exit: 'balloonOff crumpleOut peelOff popOut spinOut',
+        enter: 'bubbles stickerPeel crumple loadingBar tokoroten bounceBig rubber neonOn heatHaze diagWipe',
+        exit: 'balloonOff crumpleOut peelOff popOut spinOut gravity',
         bg: 'argyle tartan chevron houndstooth herringbone polka checker retroGrid eqBars kaleidoscope fireworks sunburst bigStripes isoCubes seigaiha asanoha tvBars splitDiag spiralArms squareTunnel moire noiseField scanBars',
-        trans: 'flashCross shatterTiles knCornerSwing knStripSlam checker cubeTurn spinOut doorsOpen pixelate knStutterCut',
+        trans: 'flashCross shatterTiles knCornerSwing knStripSlam checker cubeTurn spinOut doorsOpen pixelate knStutterCut uncover inkBlob',
       };
-      DENY.layout += ' shadowPlay glitchGrid tyBandHide tyRuby kanjiFocus contour circle tunnel curtain mirror type frameBox tyBaseline condensed gloss columnsBig tyLineFocus tyVRuler huge maskReveal tyErode tyCropGiant knQuarterTurn';   // + HUD-like labels (prompt, LINE nn, timecodes)   // giant glyphs over faces, blobs, black bars
-      DENY.decor += ' watermarkKanji constellation moonPhases rulerEdge waveform grid rings headingTape fireflies atomOrbit cropMarks romajiLine tyRunningHead guides halftonePatch counter glyphLock sonarArcs tyBigPunct registration indexNum';   // gimmicks / additive light
-      DENY.bg += ' vhsBand filmStrip borderFrame bokehBg';
+      DENY.layout += ' shadowPlay glitchGrid tyBandHide tyRuby kanjiFocus contour circle tunnel curtain mirror type frameBox tyBaseline condensed gloss columnsBig tyLineFocus tyVRuler huge maskReveal tyErode tyCropGiant knQuarterTurn stack zoomRepeat tyCross vcols knFlowSnap justified rain sideways knTypeSlam';   // + HUD-like labels (prompt, LINE nn, timecodes)   // giant glyphs over faces, blobs, black bars
+      DENY.decor += ' watermarkKanji constellation moonPhases rulerEdge waveform grid rings headingTape fireflies atomOrbit cropMarks romajiLine tyRunningHead guides halftonePatch counter glyphLock sonarArcs tyBigPunct registration indexNum concentricSquares';   // gimmicks / additive light
+      DENY.bg += ' vhsBand filmStrip borderFrame bokehBg tornPaper';
       const MOODS = ['emotional', 'calm', 'editorial'];       // a quiet ballad: no glitch / pop parts
+      // allow-lists (checkpoint 4): every deny-list change re-rolls the whole film and kept surfacing new bad
+      // layouts, so layouts are limited to ones seen working on this film, and the picture is always the background
+      const ALLOW = {
+        layout: new Set('center edgeFrame circleWords lowerThird tyMargin quote dropCap tyJustify staircase knReflow corners credits halfVertical tyKeySplit tyScaleSteps'.split(' ')),
+        bg: new Set(['none']),
+      };
       const enabled = {};
       for (const g of J.GROUP_KEYS) {
         enabled[g] = {}; const deny = new Set((DENY[g] || '').split(/\s+/).filter(Boolean));
@@ -82,6 +88,7 @@
           const d = J.registry(g)[k] || {}, tags = Array.isArray(d.tags) ? d.tags : null;
           let ok = !deny.has(k) && !/^hr[A-Z]/.test(k) && d.set !== 'horror';
           if (ok && MOODS && tags && !tags.some(m => MOODS.includes(m))) ok = false;
+          if (ALLOW[g]) ok = ALLOW[g].has(k);
           if (k === 'none') ok = true;
           enabled[g][k] = ok;
         }
