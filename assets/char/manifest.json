@@ -106,5 +106,493 @@
     "opaque_pct": 46.57,
     "attempt": 1,
     "prompt": "Character design key art, full body, standing, front three-quarter view, holding the faded temari against her chest with both hands, wind from the left blowing her hair and the ribbon tails to the right, quiet sad expression, eyes lowered. ORIGINAL character, not any existing anime or manga character. Sayo, a quiet Japanese schoolgirl of about 16 in the Taisho era: waist-length straight black hair with blunt bangs, worn half-up with a large crimson ribbon bow at the back of her head, the bow's two long ribbon tails (about 60 cm) fluttering behind her; dark brown eyes with a warm amber glint; kimono with a yagasuri arrow-feather pattern in muted wisteria purple and cream; white han-eri collar; dark maroon-brown ebicha hakama (deep chocolate-brown with only a hint of red, clearly darker and browner than the crimson ribbon); brown lace-up leather boots; she carries a small faded temari ball whose dull red and cream threads have lost their colour. Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "sayo_walk_back": {
+    "id": "sayo_walk_back",
+    "status": "complete",
+    "elapsed": 75.7,
+    "thread": "01a1bba3-e442-7870-8bf1-371b2a3955d3",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bba3-e442-7870-8bf1-371b2a3955d3\\exec-4181b424-bc08-4eff-b851-317d56762c63.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\char\\sayo_walk_back.png",
+    "alpha_method": "chroma-key",
+    "size": [
+      752,
+      1637
+    ],
+    "cut_sides": [],
+    "transparent_pct": 49.49,
+    "opaque_pct": 49.0,
+    "attempt": 1,
+    "prompt": "Full body seen from behind, walking away along a path with small steps, head slightly bowed, the large crimson ribbon bow at the back of her head clearly visible, its two long tails and her long hair drifting to the left in a gentle breeze, lonely mood. The same original character as in the reference image (Sayo: a quiet Japanese girl of about 16 in the Taisho era, waist-length straight black hair with blunt bangs, half-up with a large crimson ribbon bow at the back of her head whose two long tails flutter behind her, dark brown eyes, kimono with a yagasuri arrow-feather pattern in muted wisteria purple and cream, white han-eri collar, dark maroon-brown ebicha hakama (deep chocolate-brown with only a hint of red, clearly darker and browner than the crimson ribbon), brown lace-up leather boots). Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "sayo_side_leaf": {
+    "id": "sayo_side_leaf",
+    "status": "complete",
+    "elapsed": 74.8,
+    "thread": "01a1bba3-d976-7721-8fad-548afc729329",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bba3-d976-7721-8fad-548afc729329\\exec-87504491-f7d9-4587-aa31-5a57aad13876.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\char\\sayo_side_leaf.png",
+    "alpha_method": "chroma-key",
+    "size": [
+      1415,
+      1058
+    ],
+    "cut_sides": [
+      "bottom"
+    ],
+    "transparent_pct": 50.79,
+    "opaque_pct": 47.35,
+    "attempt": 1,
+    "prompt": "Upper body in side profile facing left, head bowed, looking down at a single red maple leaf resting in her open right palm, melancholic, hair falling forward over her shoulder. The same original character as in the reference image (Sayo: a quiet Japanese girl of about 16 in the Taisho era, waist-length straight black hair with blunt bangs, half-up with a large crimson ribbon bow at the back of her head whose two long tails flutter behind her, dark brown eyes, kimono with a yagasuri arrow-feather pattern in muted wisteria purple and cream, white han-eri collar, dark maroon-brown ebicha hakama (deep chocolate-brown with only a hint of red, clearly darker and browner than the crimson ribbon), brown lace-up leather boots). Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "sayo_back_lookup": {
+    "id": "sayo_back_lookup",
+    "status": "complete",
+    "elapsed": 77.0,
+    "thread": "01a1bba3-da0b-7a43-b37b-d85160fc0be5",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bba3-da0b-7a43-b37b-d85160fc0be5\\exec-a50117d2-1a98-4916-ab4a-38df45bcc08b.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\char\\sayo_back_lookup.png",
+    "alpha_method": "chroma-key",
+    "size": [
+      847,
+      1686
+    ],
+    "cut_sides": [],
+    "transparent_pct": 55.37,
+    "opaque_pct": 43.3,
+    "attempt": 1,
+    "prompt": "Full body seen from behind, standing still on a path, head tilted far back looking up at the sky, arms hanging at her sides with the faded temari in her right hand, the crimson bow, its long tails and her hair drifting in the wind. The same original character as in the reference image (Sayo: a quiet Japanese girl of about 16 in the Taisho era, waist-length straight black hair with blunt bangs, half-up with a large crimson ribbon bow at the back of her head whose two long tails flutter behind her, dark brown eyes, kimono with a yagasuri arrow-feather pattern in muted wisteria purple and cream, white han-eri collar, dark maroon-brown ebicha hakama (deep chocolate-brown with only a hint of red, clearly darker and browner than the crimson ribbon), brown lace-up leather boots). Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "sayo_hum": {
+    "id": "sayo_hum",
+    "status": "complete",
+    "elapsed": 78.3,
+    "thread": "01a1bba3-da12-7de3-bedb-0453d14979c5",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bba3-da12-7de3-bedb-0453d14979c5\\exec-e81d94e5-6830-406c-8eb4-ad59f5a6cf0c.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\char\\sayo_hum.png",
+    "alpha_method": "chroma-key",
+    "size": [
+      1294,
+      1231
+    ],
+    "cut_sides": [],
+    "transparent_pct": 44.59,
+    "opaque_pct": 53.75,
+    "attempt": 1,
+    "prompt": "Bust shot (chest up), front three-quarter view, eyes gently closed, lips slightly parted, softly humming a song, holding the faded temari against her chest with both hands, a few strands of hair moving in the breeze, calm and sad. The same original character as in the reference image (Sayo: a quiet Japanese girl of about 16 in the Taisho era, waist-length straight black hair with blunt bangs, half-up with a large crimson ribbon bow at the back of her head whose two long tails flutter behind her, dark brown eyes, kimono with a yagasuri arrow-feather pattern in muted wisteria purple and cream, white han-eri collar, dark maroon-brown ebicha hakama (deep chocolate-brown with only a hint of red, clearly darker and browner than the crimson ribbon), brown lace-up leather boots). Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "sayo_wind": {
+    "id": "sayo_wind",
+    "status": "complete",
+    "elapsed": 79.1,
+    "thread": "01a1bba3-ded7-76f3-8f88-bc857cf25c14",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bba3-ded7-76f3-8f88-bc857cf25c14\\exec-efa3ff57-5ef8-4873-a3c7-7e5afc102212.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\char\\sayo_wind.png",
+    "alpha_method": "chroma-key",
+    "size": [
+      786,
+      1338
+    ],
+    "cut_sides": [],
+    "transparent_pct": 45.02,
+    "opaque_pct": 53.24,
+    "attempt": 1,
+    "prompt": "Full body, standing against a strong gust of wind blowing from the right, holding her hair back with her left hand, the faded temari pressed to her chest with the right, eyes narrowed, hakama, sleeves, long hair and the two crimson ribbon tails all whipping violently to the left. The same original character as in the reference image (Sayo: a quiet Japanese girl of about 16 in the Taisho era, waist-length straight black hair with blunt bangs, half-up with a large crimson ribbon bow at the back of her head whose two long tails flutter behind her, dark brown eyes, kimono with a yagasuri arrow-feather pattern in muted wisteria purple and cream, white han-eri collar, dark maroon-brown ebicha hakama (deep chocolate-brown with only a hint of red, clearly darker and browner than the crimson ribbon), brown lace-up leather boots). Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "sayo_smile": {
+    "id": "sayo_smile",
+    "status": "complete",
+    "elapsed": 81.4,
+    "thread": "01a1bba3-dbb0-7433-9a47-a5732c1e8ec2",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bba3-dbb0-7433-9a47-a5732c1e8ec2\\exec-fae48a55-fe66-4e19-b160-d51c8073a608.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\char\\sayo_smile.png",
+    "alpha_method": "chroma-key",
+    "size": [
+      1215,
+      1167
+    ],
+    "cut_sides": [],
+    "transparent_pct": 40.4,
+    "opaque_pct": 57.65,
+    "attempt": 1,
+    "prompt": "Bust shot (chest up), three-quarter view, a warm gentle open smile, looking to her left at someone beside her with affection, soft summer light, hair moving softly. The same original character as in the reference image (Sayo: a quiet Japanese girl of about 16 in the Taisho era, waist-length straight black hair with blunt bangs, half-up with a large crimson ribbon bow at the back of her head whose two long tails flutter behind her, dark brown eyes, kimono with a yagasuri arrow-feather pattern in muted wisteria purple and cream, white han-eri collar, dark maroon-brown ebicha hakama (deep chocolate-brown with only a hint of red, clearly darker and browner than the crimson ribbon), brown lace-up leather boots). Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "sayo_hand_chest": {
+    "id": "sayo_hand_chest",
+    "status": "complete",
+    "elapsed": 81.6,
+    "thread": "01a1bba3-da55-7b52-8388-c19546d4ee13",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bba3-da55-7b52-8388-c19546d4ee13\\exec-08663246-c18b-4582-9578-025ebb8c7fe1.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\char\\sayo_hand_chest.png",
+    "alpha_method": "chroma-key",
+    "size": [
+      1218,
+      1158
+    ],
+    "cut_sides": [],
+    "transparent_pct": 43.6,
+    "opaque_pct": 54.47,
+    "attempt": 1,
+    "prompt": "Bust shot (chest up), facing the viewer, eyes closed, her right hand pressed flat over her heart, serene and aching expression, hair and ribbon tails moving softly. The same original character as in the reference image (Sayo: a quiet Japanese girl of about 16 in the Taisho era, waist-length straight black hair with blunt bangs, half-up with a large crimson ribbon bow at the back of her head whose two long tails flutter behind her, dark brown eyes, kimono with a yagasuri arrow-feather pattern in muted wisteria purple and cream, white han-eri collar, dark maroon-brown ebicha hakama (deep chocolate-brown with only a hint of red, clearly darker and browner than the crimson ribbon), brown lace-up leather boots). Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "sayo_lookup": {
+    "id": "sayo_lookup",
+    "status": "complete",
+    "elapsed": 89.4,
+    "thread": "01a1bba3-d9c8-7c43-a9f9-dc2efa2bfba6",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bba3-d9c8-7c43-a9f9-dc2efa2bfba6\\exec-2aa0a890-17b2-49b0-80a2-7cd32493f8d7.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\char\\sayo_lookup.png",
+    "alpha_method": "chroma-key",
+    "size": [
+      1149,
+      1297
+    ],
+    "cut_sides": [
+      "bottom"
+    ],
+    "transparent_pct": 50.91,
+    "opaque_pct": 46.98,
+    "attempt": 1,
+    "prompt": "Upper body from a slightly low angle, three-quarter view, looking up at falling leaves above her with lips slightly parted, wonder and longing, one hand lifted a little as if to catch a leaf, hair and ribbon tails lifting in the breeze. The same original character as in the reference image (Sayo: a quiet Japanese girl of about 16 in the Taisho era, waist-length straight black hair with blunt bangs, half-up with a large crimson ribbon bow at the back of her head whose two long tails flutter behind her, dark brown eyes, kimono with a yagasuri arrow-feather pattern in muted wisteria purple and cream, white han-eri collar, dark maroon-brown ebicha hakama (deep chocolate-brown with only a hint of red, clearly darker and browner than the crimson ribbon), brown lace-up leather boots). Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "sayo_sit": {
+    "id": "sayo_sit",
+    "status": "complete",
+    "elapsed": 73.9,
+    "thread": "01a1bba5-0871-7571-b03e-922156104e39",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bba5-0871-7571-b03e-922156104e39\\exec-f0535f37-14fb-4d79-986e-c784ad28d33c.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\char\\sayo_sit.png",
+    "alpha_method": "chroma-key",
+    "size": [
+      1059,
+      1437
+    ],
+    "cut_sides": [],
+    "transparent_pct": 46.11,
+    "opaque_pct": 52.59,
+    "attempt": 1,
+    "prompt": "Full body, sitting on a low stone step, front three-quarter view with her body turned slightly to her left, knees together, hands folded in her lap, looking down quietly, the hakama spread over the step. The same original character as in the reference image (Sayo: a quiet Japanese girl of about 16 in the Taisho era, waist-length straight black hair with blunt bangs, half-up with a large crimson ribbon bow at the back of her head whose two long tails flutter behind her, dark brown eyes, kimono with a yagasuri arrow-feather pattern in muted wisteria purple and cream, white han-eri collar, dark maroon-brown ebicha hakama (deep chocolate-brown with only a hint of red, clearly darker and browner than the crimson ribbon), brown lace-up leather boots). Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "sayo_reach_up": {
+    "id": "sayo_reach_up",
+    "status": "complete",
+    "elapsed": 73.2,
+    "thread": "01a1bba5-36e7-7193-8c23-138e0492dee5",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bba5-36e7-7193-8c23-138e0492dee5\\exec-fbcdc069-688a-4322-9557-55bbde95d94c.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\char\\sayo_reach_up.png",
+    "alpha_method": "chroma-key",
+    "size": [
+      849,
+      1776
+    ],
+    "cut_sides": [],
+    "transparent_pct": 55.87,
+    "opaque_pct": 42.22,
+    "attempt": 1,
+    "prompt": "Full body seen from a low three-quarter angle, standing and stretching her right arm straight up toward the sky with fingers open, face tilted up, the faded temari clutched to her chest with her left hand, hair and the long crimson ribbon tails streaming upward in a rising wind. The same original character as in the reference image (Sayo: a quiet Japanese girl of about 16 in the Taisho era, waist-length straight black hair with blunt bangs, half-up with a large crimson ribbon bow at the back of her head whose two long tails flutter behind her, dark brown eyes, kimono with a yagasuri arrow-feather pattern in muted wisteria purple and cream, white han-eri collar, dark maroon-brown ebicha hakama (deep chocolate-brown with only a hint of red, clearly darker and browner than the crimson ribbon), brown lace-up leather boots). Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "sayo_sleeve": {
+    "id": "sayo_sleeve",
+    "status": "complete",
+    "elapsed": 83.6,
+    "thread": "01a1bba5-23ae-7862-983b-0961e13f24d9",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bba5-23ae-7862-983b-0961e13f24d9\\exec-af3d0064-8448-494a-8610-84ff488357a7.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\char\\sayo_sleeve.png",
+    "alpha_method": "chroma-key",
+    "size": [
+      1307,
+      1109
+    ],
+    "cut_sides": [
+      "bottom"
+    ],
+    "transparent_pct": 42.22,
+    "opaque_pct": 56.06,
+    "attempt": 1,
+    "prompt": "Upper body, three-quarter view, raising her right kimono sleeve to hide her eyes as she cries, shoulders hunched, rain-wet hair, the purple-and-cream yagasuri sleeve large in the frame with raindrops on it. The same original character as in the reference image (Sayo: a quiet Japanese girl of about 16 in the Taisho era, waist-length straight black hair with blunt bangs, half-up with a large crimson ribbon bow at the back of her head whose two long tails flutter behind her, dark brown eyes, kimono with a yagasuri arrow-feather pattern in muted wisteria purple and cream, white han-eri collar, dark maroon-brown ebicha hakama (deep chocolate-brown with only a hint of red, clearly darker and browner than the crimson ribbon), brown lace-up leather boots). Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "sayo_crouch": {
+    "id": "sayo_crouch",
+    "status": "complete",
+    "elapsed": 82.6,
+    "thread": "01a1bba5-2ce6-72f0-aca5-9a03a71d9c55",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bba5-2ce6-72f0-aca5-9a03a71d9c55\\exec-67cfee8b-1ab4-4a91-b67c-d60d6a05b57b.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\char\\sayo_crouch.png",
+    "alpha_method": "chroma-key",
+    "size": [
+      1030,
+      1041
+    ],
+    "cut_sides": [],
+    "transparent_pct": 42.69,
+    "opaque_pct": 55.73,
+    "attempt": 1,
+    "prompt": "Full body, front three-quarter view, crouching on the ground and hugging her knees, face buried in her arms, the faded temari held against her knees, long rain-wet hair spilling down her back to the ground, the crimson bow drooping, utterly still and lonely. The same original character as in the reference image (Sayo: a quiet Japanese girl of about 16 in the Taisho era, waist-length straight black hair with blunt bangs, half-up with a large crimson ribbon bow at the back of her head whose two long tails flutter behind her, dark brown eyes, kimono with a yagasuri arrow-feather pattern in muted wisteria purple and cream, white han-eri collar, dark maroon-brown ebicha hakama (deep chocolate-brown with only a hint of red, clearly darker and browner than the crimson ribbon), brown lace-up leather boots). Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "sayo_smile_snow": {
+    "id": "sayo_smile_snow",
+    "status": "complete",
+    "elapsed": 72.6,
+    "thread": "01a1bba5-45b4-7da3-b661-492ca307629f",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bba5-45b4-7da3-b661-492ca307629f\\exec-d2f614d3-7f55-4d01-894c-6798adc052ad.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\char\\sayo_smile_snow.png",
+    "alpha_method": "chroma-key",
+    "size": [
+      1173,
+      1000
+    ],
+    "cut_sides": [],
+    "transparent_pct": 48.03,
+    "opaque_pct": 49.95,
+    "attempt": 1,
+    "prompt": "Bust shot (chest up), three-quarter view, looking up at gently falling snowflakes with a soft, tearful but peaceful smile, a snowflake on her bangs, quiet cold air. The same original character as in the reference image (Sayo: a quiet Japanese girl of about 16 in the Taisho era, waist-length straight black hair with blunt bangs, half-up with a large crimson ribbon bow at the back of her head whose two long tails flutter behind her, dark brown eyes, kimono with a yagasuri arrow-feather pattern in muted wisteria purple and cream, white han-eri collar, dark maroon-brown ebicha hakama (deep chocolate-brown with only a hint of red, clearly darker and browner than the crimson ribbon), brown lace-up leather boots). Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "sayo_sing_rain": {
+    "id": "sayo_sing_rain",
+    "status": "complete",
+    "elapsed": 91.1,
+    "thread": "01a1bba5-080b-7961-9dfd-0f05c01e2d47",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bba5-080b-7961-9dfd-0f05c01e2d47\\exec-d0c86f7b-21b6-4aca-ba14-92769a54d5a1.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\char\\sayo_sing_rain.png",
+    "alpha_method": "chroma-key",
+    "size": [
+      1194,
+      1179
+    ],
+    "cut_sides": [],
+    "transparent_pct": 41.88,
+    "opaque_pct": 56.32,
+    "attempt": 1,
+    "prompt": "Bust shot (chest up), facing the viewer, singing softly with her mouth slightly open, eyes half closed, standing in the rain: hair and kimono damp, wet strands stuck to her cheeks, raindrops on her shoulders, sorrowful. The same original character as in the reference image (Sayo: a quiet Japanese girl of about 16 in the Taisho era, waist-length straight black hair with blunt bangs, half-up with a large crimson ribbon bow at the back of her head whose two long tails flutter behind her, dark brown eyes, kimono with a yagasuri arrow-feather pattern in muted wisteria purple and cream, white han-eri collar, dark maroon-brown ebicha hakama (deep chocolate-brown with only a hint of red, clearly darker and browner than the crimson ribbon), brown lace-up leather boots). Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "sayo_sing_power": {
+    "id": "sayo_sing_power",
+    "status": "complete",
+    "elapsed": 82.5,
+    "thread": "01a1bba5-3899-7f90-8c71-51560226293b",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bba5-3899-7f90-8c71-51560226293b\\exec-da0a4f90-0852-4069-a4a6-b5950e3bcbea.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\char\\sayo_sing_power.png",
+    "alpha_method": "chroma-key",
+    "size": [
+      1420,
+      1009
+    ],
+    "cut_sides": [],
+    "transparent_pct": 44.22,
+    "opaque_pct": 53.33,
+    "attempt": 1,
+    "prompt": "Upper body from a slightly low angle, singing with all her heart, mouth open on a long high note, eyes squeezed half shut with emotion, right hand clenched at her chest, left arm flung out to the side, hair and crimson ribbon tails flaring in a strong wind. The same original character as in the reference image (Sayo: a quiet Japanese girl of about 16 in the Taisho era, waist-length straight black hair with blunt bangs, half-up with a large crimson ribbon bow at the back of her head whose two long tails flutter behind her, dark brown eyes, kimono with a yagasuri arrow-feather pattern in muted wisteria purple and cream, white han-eri collar, dark maroon-brown ebicha hakama (deep chocolate-brown with only a hint of red, clearly darker and browner than the crimson ribbon), brown lace-up leather boots). Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "sayo_lookup_tears": {
+    "id": "sayo_lookup_tears",
+    "status": "complete",
+    "elapsed": 87.2,
+    "thread": "01a1bba5-2f2f-7a01-8f1c-0916325fd088",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bba5-2f2f-7a01-8f1c-0916325fd088\\exec-05803529-92c1-4d4e-8b26-42438e1de3c4.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\char\\sayo_lookup_tears.png",
+    "alpha_method": "chroma-key",
+    "size": [
+      1211,
+      1111
+    ],
+    "cut_sides": [],
+    "transparent_pct": 43.55,
+    "opaque_pct": 54.67,
+    "attempt": 1,
+    "prompt": "Bust shot (chest up) from a slightly low angle, lifting her face toward the sky, tears running down both cheeks, eyes wide open and shining, lips parted in surprise as if hearing a beloved voice, rain-wet hair. The same original character as in the reference image (Sayo: a quiet Japanese girl of about 16 in the Taisho era, waist-length straight black hair with blunt bangs, half-up with a large crimson ribbon bow at the back of her head whose two long tails flutter behind her, dark brown eyes, kimono with a yagasuri arrow-feather pattern in muted wisteria purple and cream, white han-eri collar, dark maroon-brown ebicha hakama (deep chocolate-brown with only a hint of red, clearly darker and browner than the crimson ribbon), brown lace-up leather boots). Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "sayo_listen": {
+    "id": "sayo_listen",
+    "status": "complete",
+    "elapsed": 54.0,
+    "thread": "01a1bba6-4c76-72f2-92b0-c046ee0b64d5",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bba6-4c76-72f2-92b0-c046ee0b64d5\\exec-7f3b14ec-2775-4be9-95a8-9ebea725c540.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\char\\sayo_listen.png",
+    "attempt": 1,
+    "prompt": "Full-bleed close-up filling the entire frame edge to edge, 16:9 landscape: her face from the chin up in three-quarter view, eyes closed, listening to a distant song, long black bangs and strands of hair crossing the frame, a glimpse of the crimson ribbon, soft overcast daylight on her skin. The same original character as in the reference image (Sayo: a quiet Japanese girl of about 16 in the Taisho era, waist-length straight black hair with blunt bangs, half-up with a large crimson ribbon bow at the back of her head whose two long tails flutter behind her, dark brown eyes, kimono with a yagasuri arrow-feather pattern in muted wisteria purple and cream, white han-eri collar, dark maroon-brown ebicha hakama (deep chocolate-brown with only a hint of red, clearly darker and browner than the crimson ribbon), brown lace-up leather boots). Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "hands_temari_faded": {
+    "id": "hands_temari_faded",
+    "status": "complete",
+    "elapsed": 70.3,
+    "thread": "01a1bba6-2c9a-7ee3-a3f5-27eb0ced526f",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bba6-2c9a-7ee3-a3f5-27eb0ced526f\\exec-e08bec61-a13d-4279-b0a8-3f84021273e7.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\char\\hands_temari_faded.png",
+    "attempt": 1,
+    "prompt": "Full-bleed close-up filling the entire frame edge to edge, 16:9 landscape: her two hands gently cupping the small faded temari ball (dull red and cream threads, worn and colour-drained), seen from slightly above, the purple-and-cream yagasuri sleeves and maroon-brown hakama behind, one fallen red maple leaf resting on the hakama, soft overcast daylight. The same original character as in the reference image (Sayo: a quiet Japanese girl of about 16 in the Taisho era, waist-length straight black hair with blunt bangs, half-up with a large crimson ribbon bow at the back of her head whose two long tails flutter behind her, dark brown eyes, kimono with a yagasuri arrow-feather pattern in muted wisteria purple and cream, white han-eri collar, dark maroon-brown ebicha hakama (deep chocolate-brown with only a hint of red, clearly darker and browner than the crimson ribbon), brown lace-up leather boots). Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "chizuru_walk_back": {
+    "id": "chizuru_walk_back",
+    "status": "complete",
+    "elapsed": 53.4,
+    "thread": "01a1bba9-07d1-7861-89f4-e59bfebaaca5",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bba9-07d1-7861-89f4-e59bfebaaca5\\exec-58bba87e-35fd-4a23-95b7-d829714ec17a.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\char\\chizuru_walk_back.png",
+    "alpha_method": "chroma-key",
+    "size": [
+      689,
+      1928
+    ],
+    "cut_sides": [],
+    "transparent_pct": 56.43,
+    "opaque_pct": 42.36,
+    "attempt": 1,
+    "prompt": "Full body seen completely from behind (back view): we see her back, the leaf-green obi bow at the back of her waist and the back of her head, her face is NOT visible; she walks away from the viewer at a relaxed pace, the end of her braid showing over her left shoulder, the temari in her left hand at her side, summer light. The same original character as in the reference image (Chizuru: a gentle smiling Japanese girl of about 16 in the Taisho era, long chestnut-brown hair in one loose braid hanging over her LEFT shoulder, soft side-swept bangs, a small fresh-green maple-leaf hair ornament on her RIGHT side, light hazel-green eyes, white summer kimono patterned ONLY with faint pale-green and fresh-green maple leaves (no red, orange or yellow leaves anywhere on her clothes), soft leaf-green obi, zori sandals with red straps, holding a bright new temari ball wound with red, green and white thread). Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "sayo_tear_smile": {
+    "id": "sayo_tear_smile",
+    "status": "complete",
+    "elapsed": 78.0,
+    "thread": "01a1bba6-5d79-7792-a202-f481c155e434",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bba6-5d79-7792-a202-f481c155e434\\exec-2762113c-6a85-49c3-85f2-5a9ccb8595e9.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\char\\sayo_tear_smile.png",
+    "attempt": 1,
+    "prompt": "Full-bleed close-up filling the entire frame edge to edge, 16:9 landscape: her face from the chin up, eyes half open, a single tear on her cheek and a tiny snowflake melting beside it, a small relieved smile, soft white winter light, strands of black hair crossing the frame. The same original character as in the reference image (Sayo: a quiet Japanese girl of about 16 in the Taisho era, waist-length straight black hair with blunt bangs, half-up with a large crimson ribbon bow at the back of her head whose two long tails flutter behind her, dark brown eyes, kimono with a yagasuri arrow-feather pattern in muted wisteria purple and cream, white han-eri collar, dark maroon-brown ebicha hakama (deep chocolate-brown with only a hint of red, clearly darker and browner than the crimson ribbon), brown lace-up leather boots). Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "chizuru_bounce": {
+    "id": "chizuru_bounce",
+    "status": "complete",
+    "elapsed": 72.5,
+    "thread": "01a1bba6-89f7-7441-ad30-f97023b35753",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bba6-89f7-7441-ad30-f97023b35753\\exec-39c76778-c278-4834-95ae-5c1bb96e2428.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\char\\chizuru_bounce.png",
+    "alpha_method": "chroma-key",
+    "size": [
+      1025,
+      1539
+    ],
+    "cut_sides": [],
+    "transparent_pct": 66.09,
+    "opaque_pct": 32.7,
+    "attempt": 1,
+    "prompt": "Full body, front three-quarter view, bouncing the temari off the ground with her right hand, the ball just below her palm, laughing joyfully, braid and sleeves swinging. The same original character as in the reference image (Chizuru: a gentle smiling Japanese girl of about 16 in the Taisho era, long chestnut-brown hair in one loose braid hanging over her LEFT shoulder, soft side-swept bangs, a small fresh-green maple-leaf hair ornament on her RIGHT side, light hazel-green eyes, white summer kimono patterned ONLY with faint pale-green and fresh-green maple leaves (no red, orange or yellow leaves anywhere on her clothes), soft leaf-green obi, zori sandals with red straps, holding a bright new temari ball wound with red, green and white thread). Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "chizuru_sing": {
+    "id": "chizuru_sing",
+    "status": "complete",
+    "elapsed": 81.9,
+    "thread": "01a1bba6-7002-7503-a23e-4ae31e158e33",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bba6-7002-7503-a23e-4ae31e158e33\\exec-6975ae14-ebed-4e5c-bf0c-87b12bca0201.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\char\\chizuru_sing.png",
+    "alpha_method": "chroma-key",
+    "size": [
+      1041,
+      1103
+    ],
+    "cut_sides": [],
+    "transparent_pct": 44.13,
+    "opaque_pct": 53.91,
+    "attempt": 1,
+    "prompt": "Upper body, three-quarter view, singing a children's song with a bright open mouth, eyes happily curved, bouncing the temari on her right palm, the braid swinging, warm golden summer light. The same original character as in the reference image (Chizuru: a gentle smiling Japanese girl of about 16 in the Taisho era, long chestnut-brown hair in one loose braid hanging over her LEFT shoulder, soft side-swept bangs, a small fresh-green maple-leaf hair ornament on her RIGHT side, light hazel-green eyes, white summer kimono patterned ONLY with faint pale-green and fresh-green maple leaves (no red, orange or yellow leaves anywhere on her clothes), soft leaf-green obi, zori sandals with red straps, holding a bright new temari ball wound with red, green and white thread). Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "chizuru_float": {
+    "id": "chizuru_float",
+    "status": "complete",
+    "elapsed": 72.6,
+    "thread": "01a1bba6-8e05-7fb0-920c-090fe1189eec",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bba6-8e05-7fb0-920c-090fe1189eec\\exec-b627ac83-cdc8-4910-8c1d-7bc9af2c5ab2.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\char\\chizuru_float.png",
+    "alpha_method": "chroma-key",
+    "size": [
+      887,
+      1440
+    ],
+    "cut_sides": [],
+    "transparent_pct": 61.0,
+    "opaque_pct": 37.87,
+    "attempt": 1,
+    "prompt": "Full body, floating in the air high in the sky, seen slightly from below, looking downward with a serene loving smile, right hand reaching down with the palm open, the temari held against her hip with her left hand, sleeves, hem and braid drifting upward softly as if weightless, no ground. The same original character as in the reference image (Chizuru: a gentle smiling Japanese girl of about 16 in the Taisho era, long chestnut-brown hair in one loose braid hanging over her LEFT shoulder, soft side-swept bangs, a small fresh-green maple-leaf hair ornament on her RIGHT side, light hazel-green eyes, white summer kimono patterned ONLY with faint pale-green and fresh-green maple leaves (no red, orange or yellow leaves anywhere on her clothes), soft leaf-green obi, zori sandals with red straps, holding a bright new temari ball wound with red, green and white thread). Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "chizuru_sit": {
+    "id": "chizuru_sit",
+    "status": "complete",
+    "elapsed": 73.7,
+    "thread": "01a1bba6-8985-7581-a26e-68f643386108",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bba6-8985-7581-a26e-68f643386108\\exec-38100135-f9d5-4950-8ec7-8fdce1a1015f.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\char\\chizuru_sit.png",
+    "alpha_method": "chroma-key",
+    "size": [
+      838,
+      1503
+    ],
+    "cut_sides": [],
+    "transparent_pct": 48.1,
+    "opaque_pct": 50.88,
+    "attempt": 1,
+    "prompt": "Full body, sitting on a low stone step, front three-quarter view with her body turned slightly to her right, holding the temari in her lap with both hands, smiling and turning her head to her right toward someone beside her. The same original character as in the reference image (Chizuru: a gentle smiling Japanese girl of about 16 in the Taisho era, long chestnut-brown hair in one loose braid hanging over her LEFT shoulder, soft side-swept bangs, a small fresh-green maple-leaf hair ornament on her RIGHT side, light hazel-green eyes, white summer kimono patterned ONLY with faint pale-green and fresh-green maple leaves (no red, orange or yellow leaves anywhere on her clothes), soft leaf-green obi, zori sandals with red straps, holding a bright new temari ball wound with red, green and white thread). Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "chizuru_smile": {
+    "id": "chizuru_smile",
+    "status": "complete",
+    "elapsed": 69.6,
+    "thread": "01a1bba7-1fbb-7560-aaba-0bc3b1e35f88",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bba7-1fbb-7560-aaba-0bc3b1e35f88\\exec-6e61e68e-8e2e-4918-88e6-8d6f852b5298.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\char\\chizuru_smile.png",
+    "alpha_method": "chroma-key",
+    "size": [
+      1043,
+      1267
+    ],
+    "cut_sides": [],
+    "transparent_pct": 37.44,
+    "opaque_pct": 61.03,
+    "attempt": 1,
+    "prompt": "Close-up of her face and shoulders, looking slightly down at the viewer with a gentle, kind smile, eyes a little moist, warm light from behind her. The same original character as in the reference image (Chizuru: a gentle smiling Japanese girl of about 16 in the Taisho era, long chestnut-brown hair in one loose braid hanging over her LEFT shoulder, soft side-swept bangs, a small fresh-green maple-leaf hair ornament on her RIGHT side, light hazel-green eyes, white summer kimono patterned ONLY with faint pale-green and fresh-green maple leaves (no red, orange or yellow leaves anywhere on her clothes), soft leaf-green obi, zori sandals with red straps, holding a bright new temari ball wound with red, green and white thread). Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "hands_two_leaves": {
+    "id": "hands_two_leaves",
+    "status": "complete",
+    "elapsed": 47.1,
+    "thread": "01a1bba7-a202-78e3-8663-edd12f7adaef",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bba7-a202-78e3-8663-edd12f7adaef\\exec-cc25fe25-d77e-4010-bdbb-9072299aa88b.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\char\\hands_two_leaves.png",
+    "attempt": 1,
+    "prompt": "Full-bleed close-up filling the entire frame edge to edge, 16:9 landscape: two girls' hands raised side by side against a bright summer sky; the left hand, in a white kimono sleeve with a pale-green maple pattern (Chizuru), holds a fresh green maple leaf; the right hand, in a purple-and-cream yagasuri sleeve (Sayo), holds a single early-red maple leaf; the two leaves touch at their tips, sunlight shining through them, the veins glowing. Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "chizuru_reach_down": {
+    "id": "chizuru_reach_down",
+    "status": "complete",
+    "elapsed": 71.8,
+    "thread": "01a1bba7-3f1e-7591-8a24-64770e2b1827",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bba7-3f1e-7591-8a24-64770e2b1827\\exec-37649fcc-dda9-4335-9668-8936f3186cf2.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\char\\chizuru_reach_down.png",
+    "alpha_method": "chroma-key",
+    "size": [
+      952,
+      1527
+    ],
+    "cut_sides": [],
+    "transparent_pct": 49.39,
+    "opaque_pct": 49.57,
+    "attempt": 1,
+    "prompt": "Full body seen from below, floating in the sky, reaching her right hand straight down toward the viewer with fingers open, looking down with a tender smile, sleeves and braid hanging down toward the hand. The same original character as in the reference image (Chizuru: a gentle smiling Japanese girl of about 16 in the Taisho era, long chestnut-brown hair in one loose braid hanging over her LEFT shoulder, soft side-swept bangs, a small fresh-green maple-leaf hair ornament on her RIGHT side, light hazel-green eyes, white summer kimono patterned ONLY with faint pale-green and fresh-green maple leaves (no red, orange or yellow leaves anywhere on her clothes), soft leaf-green obi, zori sandals with red straps, holding a bright new temari ball wound with red, green and white thread). Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "hands_temari_new": {
+    "id": "hands_temari_new",
+    "status": "complete",
+    "elapsed": 63.0,
+    "thread": "01a1bba7-8ced-7a81-8dda-7d144dff9d62",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bba7-8ced-7a81-8dda-7d144dff9d62\\exec-92eeba30-becf-4b85-907d-d4e9af2138d1.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\char\\hands_temari_new.png",
+    "attempt": 1,
+    "prompt": "Full-bleed close-up filling the entire frame edge to edge, 16:9 landscape: her two hands holding the bright new temari ball wound with red, green and white thread in a geometric pattern, offering it toward the viewer, the white summer kimono with pale-green maple leaves and the leaf-green obi behind, warm golden summer sunlight. The same original character as in the reference image (Chizuru: a gentle smiling Japanese girl of about 16 in the Taisho era, long chestnut-brown hair in one loose braid hanging over her LEFT shoulder, soft side-swept bangs, a small fresh-green maple-leaf hair ornament on her RIGHT side, light hazel-green eyes, white summer kimono patterned ONLY with faint pale-green and fresh-green maple leaves (no red, orange or yellow leaves anywhere on her clothes), soft leaf-green obi, zori sandals with red straps, holding a bright new temari ball wound with red, green and white thread). Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "chizuru_wave": {
+    "id": "chizuru_wave",
+    "status": "complete",
+    "elapsed": 70.3,
+    "thread": "01a1bba7-7dfe-7af1-a51f-d893f145ecff",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bba7-7dfe-7af1-a51f-d893f145ecff\\exec-5f8dd562-4a6c-4305-b7fb-979d016ae7e1.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\char\\chizuru_wave.png",
+    "alpha_method": "chroma-key",
+    "size": [
+      1171,
+      1306
+    ],
+    "cut_sides": [],
+    "transparent_pct": 45.68,
+    "opaque_pct": 52.85,
+    "attempt": 1,
+    "prompt": "Upper body, three-quarter view, waving goodbye with her right hand raised beside her face, a warm peaceful smile with closed eyes, the temari in her left hand, braid and sleeves moving softly in the wind. The same original character as in the reference image (Chizuru: a gentle smiling Japanese girl of about 16 in the Taisho era, long chestnut-brown hair in one loose braid hanging over her LEFT shoulder, soft side-swept bangs, a small fresh-green maple-leaf hair ornament on her RIGHT side, light hazel-green eyes, white summer kimono patterned ONLY with faint pale-green and fresh-green maple leaves (no red, orange or yellow leaves anywhere on her clothes), soft leaf-green obi, zori sandals with red straps, holding a bright new temari ball wound with red, green and white thread). Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
   }
 }

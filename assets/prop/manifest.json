@@ -1,0 +1,156 @@
+{
+  "prop_leaf_green_a": {
+    "id": "prop_leaf_green_a",
+    "status": "complete",
+    "elapsed": 42.4,
+    "thread": "01a1bba2-66a7-7602-8aa1-c7c35bea56e2",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bba2-66a7-7602-8aa1-c7c35bea56e2\\exec-aaf9dd2f-4377-4142-b4da-480f2ca51fad.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\prop\\prop_leaf_green_a.png",
+    "alpha_method": "chroma-key",
+    "size": [
+      1017,
+      1038
+    ],
+    "cut_sides": [],
+    "transparent_pct": 69.17,
+    "opaque_pct": 29.69,
+    "attempt": 1,
+    "prompt": "A single Japanese maple (momiji) leaf with a short stem, flat, centred, generous margin, nothing touches the edges, fresh spring-green with lighter veins, seen from directly above. ENTIRELY fresh summer green from tip to stem: no red, orange, yellow, brown or purple anywhere on the leaf. Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "prop_leaf_red_b": {
+    "id": "prop_leaf_red_b",
+    "status": "complete",
+    "elapsed": 37.0,
+    "thread": "01a1bb9e-75df-7382-8e6e-03296638068e",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bb9e-75df-7382-8e6e-03296638068e\\exec-63285653-b10e-41f1-b59f-ab4d434c5d60.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\prop\\prop_leaf_red_b.png",
+    "alpha_method": "chroma-key",
+    "size": [
+      988,
+      843
+    ],
+    "cut_sides": [],
+    "transparent_pct": 67.06,
+    "opaque_pct": 31.81,
+    "attempt": 1,
+    "prompt": "A single Japanese maple (momiji) leaf with a short stem, flat, centred, generous margin, nothing touches the edges, vermilion red fading to orange at the tips, slightly curled, tilted. Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "prop_leaf_red_c": {
+    "id": "prop_leaf_red_c",
+    "status": "complete",
+    "elapsed": 36.9,
+    "thread": "01a1bb9e-77be-77b0-ab62-d9ed1b4502cd",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bb9e-77be-77b0-ab62-d9ed1b4502cd\\exec-579d10be-66b8-49e2-b044-dbf1f16c0ebc.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\prop\\prop_leaf_red_c.png",
+    "alpha_method": "chroma-key",
+    "size": [
+      996,
+      890
+    ],
+    "cut_sides": [],
+    "transparent_pct": 66.86,
+    "opaque_pct": 32.07,
+    "attempt": 1,
+    "prompt": "A single Japanese maple (momiji) leaf with a short stem, flat, centred, generous margin, nothing touches the edges, deep crimson, seen at an angle, one lobe gently curled up. Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "prop_leaf_green_c": {
+    "id": "prop_leaf_green_c",
+    "status": "complete",
+    "elapsed": 44.6,
+    "thread": "01a1bba2-67e9-71f1-8924-abca201923b6",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bba2-67e9-71f1-8924-abca201923b6\\exec-f6da786d-5b2d-4b03-8f59-2800d84e5d40.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\prop\\prop_leaf_green_c.png",
+    "alpha_method": "chroma-key",
+    "size": [
+      1055,
+      866
+    ],
+    "cut_sides": [],
+    "transparent_pct": 68.51,
+    "opaque_pct": 30.27,
+    "attempt": 1,
+    "prompt": "A single Japanese maple (momiji) leaf with a short stem, flat, centred, generous margin, nothing touches the edges, soft leaf-green, seen at an angle, one lobe gently curled up. ENTIRELY fresh summer green from tip to stem: no red, orange, yellow, brown or purple anywhere on the leaf. Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "prop_leaf_red_a": {
+    "id": "prop_leaf_red_a",
+    "status": "complete",
+    "elapsed": 39.3,
+    "thread": "01a1bb9e-75cc-7710-a983-4f6d2337b2ef",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bb9e-75cc-7710-a983-4f6d2337b2ef\\exec-1fe14ec8-6e28-45eb-9d50-f5df2f798d47.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\prop\\prop_leaf_red_a.png",
+    "alpha_method": "chroma-key",
+    "size": [
+      900,
+      898
+    ],
+    "cut_sides": [],
+    "transparent_pct": 66.75,
+    "opaque_pct": 32.15,
+    "attempt": 1,
+    "prompt": "A single Japanese maple (momiji) leaf with a short stem, flat, centred, generous margin, nothing touches the edges, crimson red with slightly darker veins, seen from directly above. Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "prop_leaf_green_b": {
+    "id": "prop_leaf_green_b",
+    "status": "complete",
+    "elapsed": 43.3,
+    "thread": "01a1bba2-6743-7d82-b8d3-f91b6e1596f6",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bba2-6743-7d82-b8d3-f91b6e1596f6\\exec-92b4f8ae-6869-4055-975b-2e9c85bee90f.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\prop\\prop_leaf_green_b.png",
+    "alpha_method": "chroma-key",
+    "size": [
+      930,
+      850
+    ],
+    "cut_sides": [],
+    "transparent_pct": 70.2,
+    "opaque_pct": 28.54,
+    "attempt": 1,
+    "prompt": "A single Japanese maple (momiji) leaf with a short stem, flat, centred, generous margin, nothing touches the edges, bright leaf-green, slightly curled, tilted. ENTIRELY fresh summer green from tip to stem: no red, orange, yellow, brown or purple anywhere on the leaf. Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "prop_oshiba": {
+    "id": "prop_oshiba",
+    "status": "complete",
+    "elapsed": 46.6,
+    "thread": "01a1bba2-6614-76d0-8936-b1b02a9a85eb",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bba2-6614-76d0-8936-b1b02a9a85eb\\exec-22159fde-82cf-44e1-9577-73eaf0afc4b2.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\prop\\prop_oshiba.png",
+    "attempt": 1,
+    "prompt": "Full-bleed, filling the entire frame edge to edge, 16:9 landscape: two pressed maple leaves, one crimson and one fresh green, laid side by side and slightly overlapping on a sheet of handmade white washi paper, flattened and slightly translucent like pressed flowers, seen from directly above, placed a little left of centre with lots of empty paper around them; the red leaf is pure crimson, the green leaf pure fresh green; plain paper only, no flowers, no other decorations or objects. Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "prop_temari_faded": {
+    "id": "prop_temari_faded",
+    "status": "complete",
+    "elapsed": 40.2,
+    "thread": "01a1bb9f-0f2b-74e0-acf4-2e4a6e0b30dd",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bb9f-0f2b-74e0-acf4-2e4a6e0b30dd\\exec-9ca65f0f-a0a7-4b81-b996-69efce8ff95a.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\prop\\prop_temari_faded.png",
+    "alpha_method": "chroma-key",
+    "size": [
+      619,
+      576
+    ],
+    "cut_sides": [],
+    "transparent_pct": 36.96,
+    "opaque_pct": 61.82,
+    "attempt": 1,
+    "prompt": "A single small faded temari ball lying on its own, its dull red and cream threads worn and colour-drained, a few loose threads, generous margin, nothing touches the edges. Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  },
+  "prop_temari_new": {
+    "id": "prop_temari_new",
+    "status": "complete",
+    "elapsed": 40.8,
+    "thread": "01a1bb9f-0f57-7171-b64e-fb52cd7d6677",
+    "source": "C:\\Users\\ferou\\.codex\\generated_images\\01a1bb9f-0f57-7171-b64e-fb52cd7d6677\\exec-972361b8-7d97-4f72-a42a-007127673bdc.png",
+    "out": "C:\\dev\\akikaze-mv\\assets\\prop\\prop_temari_new.png",
+    "alpha_method": "chroma-key",
+    "size": [
+      731,
+      739
+    ],
+    "cut_sides": [],
+    "transparent_pct": 29.58,
+    "opaque_pct": 69.7,
+    "attempt": 1,
+    "prompt": "A single bright new temari ball wound with red, green and white thread in a crisp geometric star pattern, generous margin, nothing touches the edges. Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature."
+  }
+}

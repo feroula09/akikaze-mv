@@ -50,6 +50,23 @@ The same original character as in the reference image (Chizuru: a gentle smiling
 Delicate Japanese watercolour illustration with a Taisho-era romance mood: fine, thin, even sumi-ink line art (not thick brush-pen strokes), soft transparent watercolour washes with gentle wet-edge blooms and light pigment granulation inside the figure, ONE soft shadow wash, no airbrushed gradients, no glossy anime highlights, bright high-key daylight, muted autumn palette (washi cream, faded maple russet, rust red, muted wisteria purple, pale leaf green, soft grey-blue, pale gold), crisp readable silhouette, looks like a key frame from an indie Japanese music video. No text, no watermark, no signature.
 ```
 
+## 背景風格區塊（附在每張背景圖最後；`{palette}` 依色彩腳本換成下表的調色盤用詞）
+
+```text
+Style: delicate Japanese watercolour background painting on washi paper: fine thin sumi-ink outlines on trees, stones and buildings (soft brown-grey lines, not pure black), transparent watercolour washes with soft wet-edge blooms and pigment granulation, visible washi fibre texture, gentle diffuse light, {palette}. Wide 16:9 landscape composition. No people, no characters, no text, no readable signs, no watermark.
+```
+
+| 調色盤 | 用詞 |
+|---|---|
+| 現在段 | late-autumn palette of faded russet maple, rust brown, dusty rose-beige, muted grey-blue shadows and washi cream, soft overcast daylight, desaturated |
+| 回憶段 | late-summer memory palette of warm gold sunlight, fresh leaf green, soft yellow-green, cream and gentle amber, bright afternoon |
+| 時雨 | cold autumn shower palette of grey-blue, slate, pale blue-grey mist and faded russet, overcast |
+| 雲開 | after-rain palette of pale gold, warm white, soft grey-blue clouds and a touch of crimson in the treetops |
+| 紅楓 | full autumn palette of brilliant crimson and vermilion maple, warm orange and gold against a pale clear sky, luminous daylight |
+| 風花 | first light snow palette of white, pale silver-blue, soft grey and a few last faded russet leaves, quiet bright winter light |
+
+批次檔由 `assets/make_jobs.py` 從本檔產生（原文照貼），不要手改 jsonl。
+
 ## 不要做的事
 
 - 不寫任何既有角色、作品或畫家的名字當參考；每個定稿提示都寫明 `ORIGINAL character, not any existing anime or manga character`。
