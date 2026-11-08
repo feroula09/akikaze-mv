@@ -4,7 +4,7 @@
  "language": "ja",
  "sections": [
   {
-   "name": "verse 1",
+   "name": "Verse 1",
    "start": 39.02,
    "end": 57.58,
    "lines": [
@@ -13,7 +13,7 @@
    ]
   },
   {
-   "name": "pre-chorus 1",
+   "name": "Pre-chorus 1",
    "start": 57.84,
    "end": 75.83,
    "lines": [
@@ -24,7 +24,7 @@
    ]
   },
   {
-   "name": "chorus 1",
+   "name": "Chorus 1",
    "start": 76.06,
    "end": 97.92,
    "lines": [
@@ -35,7 +35,7 @@
    ]
   },
   {
-   "name": "verse 2",
+   "name": "Verse 2",
    "start": 114.34,
    "end": 132.45,
    "lines": [
@@ -44,7 +44,7 @@
    ]
   },
   {
-   "name": "pre-chorus 2",
+   "name": "Pre-chorus 2",
    "start": 133.22,
    "end": 151.33,
    "lines": [
@@ -55,7 +55,7 @@
    ]
   },
   {
-   "name": "chorus 2",
+   "name": "Chorus 2",
    "start": 151.36,
    "end": 170.74,
    "lines": [
@@ -66,7 +66,7 @@
    ]
   },
   {
-   "name": "bridge (C-melo)",
+   "name": "Bridge",
    "start": 191.92,
    "end": 207.79,
    "lines": [
@@ -75,7 +75,7 @@
    ]
   },
   {
-   "name": "final chorus",
+   "name": "Last chorus",
    "start": 207.82,
    "end": 226.65,
    "lines": [
@@ -86,7 +86,7 @@
    ]
   },
   {
-   "name": "outro",
+   "name": "Coda (title lines)",
    "start": 226.68,
    "end": 245.84,
    "lines": [
@@ -119,31 +119,15 @@
  "vocal_last_offset": 245.84,
  "wordless_vocal_regions": [
   {
+   "start": 17.9,
+   "end": 39.0,
+   "desc": "vocal stem active under the band intro but no words in the Whisper pass: humming or lead-instrument bleed (unconfirmed)"
+  },
+  {
    "start": 252.0,
    "end": 270.0,
    "desc": "vocal stem ~-19 dB but no words in the Whisper pass: wordless vocal or lead-instrument bleed (unconfirmed)"
   }
  ],
- "instrumental_breaks": [
-  {
-   "start": 0.0,
-   "end": 38.0,
-   "desc": "intro"
-  },
-  {
-   "start": 94.5,
-   "end": 114.0,
-   "desc": "interlude after chorus 1"
-  },
-  {
-   "start": 169.6,
-   "end": 192.5,
-   "desc": "interlude after chorus 2"
-  },
-  {
-   "start": 245.2,
-   "end": 280.12,
-   "desc": "outro to the end of the music"
-  }
- ]
+ "instrumental_breaks": []
 }

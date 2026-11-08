@@ -48,7 +48,7 @@
     "end": 48.19
    }
   ],
-  "section_hint": "verse 1",
+  "section_hint": "Verse 1",
   "repeat_of": null,
   "confidence": 0.95,
   "alternatives": [],
@@ -214,7 +214,7 @@
     "end": 57.58
    }
   ],
-  "section_hint": "verse 1",
+  "section_hint": "Verse 1",
   "repeat_of": null,
   "confidence": 0.9,
   "alternatives": [],
@@ -319,7 +319,7 @@
    }
   ],
   "timing_source": "mms",
-  "note": "Whisper heard 波紋と / 人に. Text here is for alignment: official punctuation and spelling (やう) live in analysis/lyrics_official.txt",
+  "note": "Whisper heard 波紋と / 人に",
   "start_16th": 48.343
  },
  {
@@ -353,7 +353,7 @@
     "end": 62.52
    }
   ],
-  "section_hint": "pre-chorus 1",
+  "section_hint": "Pre-chorus 1",
   "repeat_of": null,
   "confidence": 0.85,
   "alternatives": [
@@ -415,7 +415,7 @@
    }
   ],
   "timing_source": "mms",
-  "note": "やう = historical spelling, sung よう; forced scoring split: ばな wins on the stem, はな on centre (both within noise)",
+  "note": "official spelling 色あせるやうに (sung よう; kept in analysis/lyrics_mv.lrc); forced scoring split: ばな wins on the stem, はな on centre (both within noise)",
   "start_16th": 57.752
  },
  {
@@ -455,7 +455,7 @@
     "end": 67.23
    }
   ],
-  "section_hint": "pre-chorus 1",
+  "section_hint": "Pre-chorus 1",
   "repeat_of": null,
   "confidence": 0.95,
   "alternatives": [],
@@ -550,7 +550,7 @@
     "end": 71.4
    }
   ],
-  "section_hint": "pre-chorus 1",
+  "section_hint": "Pre-chorus 1",
   "repeat_of": null,
   "confidence": 0.95,
   "alternatives": [],
@@ -646,7 +646,7 @@
     "end": 75.83
    }
   ],
-  "section_hint": "pre-chorus 1",
+  "section_hint": "Pre-chorus 1",
   "repeat_of": null,
   "confidence": 0.97,
   "alternatives": [],
@@ -746,7 +746,7 @@
     "end": 80.52
    }
   ],
-  "section_hint": "chorus 1",
+  "section_hint": "Chorus 1",
   "repeat_of": null,
   "confidence": 0.97,
   "alternatives": [],
@@ -861,7 +861,7 @@
     "end": 85.28
    }
   ],
-  "section_hint": "chorus 1",
+  "section_hint": "Chorus 1",
   "repeat_of": null,
   "confidence": 0.8,
   "alternatives": [
@@ -947,7 +947,7 @@
     "end": 90.14
    }
   ],
-  "section_hint": "chorus 1",
+  "section_hint": "Chorus 1",
   "repeat_of": null,
   "confidence": 0.93,
   "alternatives": [],
@@ -1048,7 +1048,7 @@
     "end": 97.92
    }
   ],
-  "section_hint": "chorus 1",
+  "section_hint": "Chorus 1",
   "repeat_of": null,
   "confidence": 0.9,
   "alternatives": [],
@@ -1178,7 +1178,7 @@
     "end": 123.47
    }
   ],
-  "section_hint": "verse 2",
+  "section_hint": "Verse 2",
   "repeat_of": null,
   "confidence": 0.9,
   "alternatives": [],
@@ -1338,7 +1338,7 @@
     "end": 132.45
    }
   ],
-  "section_hint": "verse 2",
+  "section_hint": "Verse 2",
   "repeat_of": null,
   "confidence": 0.97,
   "alternatives": [],
@@ -1480,7 +1480,7 @@
     "end": 137.29
    }
   ],
-  "section_hint": "pre-chorus 2",
+  "section_hint": "Pre-chorus 2",
   "repeat_of": null,
   "confidence": 0.97,
   "alternatives": [],
@@ -1586,7 +1586,7 @@
     "end": 142.22
    }
   ],
-  "section_hint": "pre-chorus 2",
+  "section_hint": "Pre-chorus 2",
   "repeat_of": null,
   "confidence": 0.93,
   "alternatives": [],
@@ -1692,7 +1692,7 @@
     "end": 146.99
    }
   ],
-  "section_hint": "pre-chorus 2",
+  "section_hint": "Pre-chorus 2",
   "repeat_of": null,
   "confidence": 0.93,
   "alternatives": [],
@@ -1786,7 +1786,7 @@
     "end": 151.33
    }
   ],
-  "section_hint": "pre-chorus 2",
+  "section_hint": "Pre-chorus 2",
   "repeat_of": null,
   "confidence": 0.95,
   "alternatives": [],
@@ -1885,7 +1885,7 @@
     "end": 155.83
    }
   ],
-  "section_hint": "chorus 2",
+  "section_hint": "Chorus 2",
   "repeat_of": null,
   "confidence": 0.95,
   "alternatives": [],
@@ -2006,7 +2006,7 @@
     "end": 160.84
    }
   ],
-  "section_hint": "chorus 2",
+  "section_hint": "Chorus 2",
   "repeat_of": null,
   "confidence": 0.93,
   "alternatives": [],
@@ -2119,7 +2119,7 @@
     "end": 165.2
    }
   ],
-  "section_hint": "chorus 2",
+  "section_hint": "Chorus 2",
   "repeat_of": null,
   "confidence": 0.9,
   "alternatives": [],
@@ -2226,7 +2226,7 @@
     "end": 170.74
    }
   ],
-  "section_hint": "chorus 2",
+  "section_hint": "Chorus 2",
   "repeat_of": null,
   "confidence": 0.95,
   "alternatives": [],
@@ -2326,7 +2326,7 @@
     "end": 198.72
    }
   ],
-  "section_hint": "bridge (C-melo)",
+  "section_hint": "Bridge",
   "repeat_of": null,
   "confidence": 0.85,
   "alternatives": [],
@@ -2427,7 +2427,7 @@
     "end": 207.79
    }
   ],
-  "section_hint": "bridge (C-melo)",
+  "section_hint": "Bridge",
   "repeat_of": null,
   "confidence": 0.8,
   "alternatives": [],
@@ -2502,7 +2502,7 @@
    }
   ],
   "timing_source": "mms",
-  "note": "long line with gaps; 見ているわ ~205.6 s",
+  "note": "long line with gaps; あなたを 202.05 s, 見ているわ 206.06 s (mora times, each after a breath gap in the vocal stem)",
   "start_16th": 198.638
  },
  {
@@ -2548,7 +2548,7 @@
     "end": 212.29
    }
   ],
-  "section_hint": "final chorus",
+  "section_hint": "Last chorus",
   "repeat_of": null,
   "confidence": 0.93,
   "alternatives": [],
@@ -2669,7 +2669,7 @@
     "end": 217.12
    }
   ],
-  "section_hint": "final chorus",
+  "section_hint": "Last chorus",
   "repeat_of": null,
   "confidence": 0.93,
   "alternatives": [],
@@ -2774,7 +2774,7 @@
     "end": 221.91
    }
   ],
-  "section_hint": "final chorus",
+  "section_hint": "Last chorus",
   "repeat_of": null,
   "confidence": 0.85,
   "alternatives": [],
@@ -2880,7 +2880,7 @@
     "end": 226.65
    }
   ],
-  "section_hint": "final chorus",
+  "section_hint": "Last chorus",
   "repeat_of": null,
   "confidence": 0.8,
   "alternatives": [],
@@ -2988,7 +2988,7 @@
     "end": 235.91
    }
   ],
-  "section_hint": "outro",
+  "section_hint": "Coda (title lines)",
   "repeat_of": null,
   "confidence": 0.8,
   "alternatives": [],
@@ -3177,7 +3177,7 @@
     "end": 245.84
    }
   ],
-  "section_hint": "outro",
+  "section_hint": "Coda (title lines)",
   "repeat_of": null,
   "confidence": 0.93,
   "alternatives": [],

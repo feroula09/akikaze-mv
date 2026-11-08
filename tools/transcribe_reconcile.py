@@ -40,9 +40,9 @@ WHISPER_PASS = "pass_voc_novad_b8.json"   # word timings used where MMS_FA has n
 START_OVERRIDE = getattr(_song, "START_OVERRIDE", {})
 MORA_OVERRIDE = getattr(_song, "MORA_OVERRIDE", {})  # mora index -> start
 
-SECTION_NAMES = {"verse1": "verse 1", "pre1": "pre-chorus 1", "chorus1": "chorus 1", "verse2": "verse 2",
-                 "pre2": "pre-chorus 2", "chorus2": "chorus 2", "bridge": "bridge (C-melo)",
-                 "chorus3": "final chorus", "outro": "outro"}
+SECTION_NAMES = {"verse1": "Verse 1", "pre1": "Pre-chorus 1", "chorus1": "Chorus 1", "verse2": "Verse 2",
+                 "pre2": "Pre-chorus 2", "chorus2": "Chorus 2", "bridge": "Bridge",
+                 "chorus3": "Last chorus", "coda": "Coda (title lines)"}
 
 
 def fmt(t):
